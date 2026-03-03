@@ -64,7 +64,7 @@ Conditional Formatting & Risk Indicators
 
 This solution provides leadership-level visibility into revenue predictability, performance drivers, and operational risk exposure, enabling more informed and proactive decision-making.
 
-##Dashboards
+## Dashboards
  <img width="1304" height="752" alt="B2B1" src="https://github.com/user-attachments/assets/459c9029-4401-4fab-a835-5693c38f1f00" />
  <img width="1301" height="751" alt="B2B2" src="https://github.com/user-attachments/assets/5f99afb9-7c9c-49ae-bd3b-c27250f09705" />
 <img width="1302" height="751" alt="B2B3" src="https://github.com/user-attachments/assets/bc5ccd4c-4708-46be-81c4-86f85dc6314c" />
