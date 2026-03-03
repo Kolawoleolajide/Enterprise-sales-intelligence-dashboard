@@ -1,0 +1,56 @@
+RepID,RepName,Region,Role,Seniority,JoinYear,LeaveYear
+1,Hugo Svensson,Europe,Account Executive,Mid,2023,
+2,Lukas Bianchi,Europe,Account Executive,Senior,2023,
+3,Clara Popescu,Europe,Customer Success,Junior,2023,2025
+4,Daniel Johnson,North America,Enterprise AE,Senior,2022,
+5,Hugo Petrov,Europe,Business Development,Junior,2023,
+6,Mark Miller,North America,Sales Development,Junior,2024,
+7,Marta Garcia,Europe,Account Executive,Mid,2023,2025
+8,Laura Pereira,Europe,Account Executive,Senior,2024,
+9,Jonas Silva,Europe,Enterprise AE,Mid,2023,
+10,Victor Ivanova,Europe,Enterprise AE,Senior,2022,
+11,Marie Kowalska,Europe,Account Executive,Mid,2024,2026
+12,Marco Garcia,Europe,Account Executive,Senior,2022,2025
+13,Jonas Rossi,Europe,Sales Development,Mid,2024,
+14,Brandon Stewart,North America,Account Executive,Mid,2023,
+15,Sophie Marin,Europe,Account Executive,Junior,2025,
+16,Clara Kova?,Europe,Business Development,Mid,2023,2025
+17,Aaron Edwards,North America,Customer Success,Senior,2022,
+18,David Fischer,Europe,Account Executive,Mid,2022,
+19,Andreas Kova?,Europe,Sales Development,Mid,2022,
+20,Petra Ivanova,Europe,Enterprise AE,Senior,2024,
+21,Lukas Dubois,Europe,Account Executive,Mid,2023,
+22,Eva Popescu,Europe,Enterprise AE,Mid,2023,2025
+23,Clara Muller,Europe,Enterprise AE,Mid,2023,
+24,Eva Petrov,Europe,Account Executive,Junior,2024,2026
+25,Milan Laurent,Europe,Customer Success,Mid,2024,
+26,Marco Popescu,Europe,Enterprise AE,Mid,2024,2026
+27,Noah Johnson,North America,Account Executive,Mid,2023,
+28,Isabelle Pereira,Europe,Account Executive,Mid,2023,2024
+29,Milan Fischer,Europe,Account Executive,Senior,2022,2025
+30,Eva Pereira,Europe,Account Executive,Junior,2023,
+31,Laura Hansen,Europe,Account Executive,Senior,2022,2024
+32,Ravi Patel,Asia-Pacific,Account Executive,Mid,2023,2025
+33,Lukas Horváth,Europe,Business Development,Junior,2025,
+34,Jin Ng,Asia-Pacific,Enterprise AE,Mid,2023,
+35,Sora Singh,Asia-Pacific,Account Executive,Senior,2023,
+36,Katarina Schmidt,Europe,Account Executive,Senior,2022,
+37,Kiran Goh,Asia-Pacific,Account Executive,Mid,2023,
+38,Thomas Silva,Europe,Enterprise AE,Senior,2022,
+39,Noemi Silva,Europe,Account Executive,Mid,2025,
+40,Clara Kowalska,Europe,Enterprise AE,Senior,2025,
+41,Sara Keller,Europe,Sales Development,Mid,2024,
+42,Inga Pereira,Europe,Account Executive,Junior,2025,
+43,Lucas Taylor,North America,Account Executive,Junior,2025,
+44,James Green,North America,Enterprise AE,Mid,2024,2027
+45,Clara Marin,Europe,Business Development,Junior,2023,
+46,Sophia Johnson,North America,Business Development,Mid,2022,
+47,Kiran Kim,Asia-Pacific,Account Executive,Junior,2023,2025
+48,Elena Dubois,Europe,Business Development,Junior,2024,2025
+49,Eva Moreau,Europe,Account Executive,Senior,2023,
+50,Milan Petrov,Europe,Account Executive,Junior,2022,2024
+51,Petra Marin,Europe,Customer Success,Mid,2023,
+52,Petra Dubois,Europe,Enterprise AE,Mid,2022,
+53,Lisa Turner,North America,Enterprise AE,Mid,2025,
+54,Hugo Hansen,Europe,Account Executive,Senior,2024,
+55,Laura Keller,Europe,Customer Success,Junior,2025,

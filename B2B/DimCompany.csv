@@ -1,0 +1,1001 @@
+CompanyID,Industry,CompanySize,EmployeeCount,AnnualRevenueEUR,Country,Region,Latitude,Longitude
+1,Technology,Enterprise,5426,1170900000,Canada,North America,56.0069179,-106.6644492
+2,Financial Services,Enterprise,2871,1421800000,Singapore,Asia-Pacific,1.71477877,104.0382587
+3,Education,Mid-Market,824,100100000,Spain,Europe,40.38198949,-3.493309348
+4,Healthcare,SMB,151,27800000,Netherlands,Europe,52.10491182,5.651568741
+5,Financial Services,Mid-Market,301,46400000,Japan,Asia-Pacific,36.34627961,138.3392988
+6,Retail & E-commerce,Mid-Market,1377,371600000,Germany,Europe,51.6386153,10.20000988
+7,Logistics,Mid-Market,721,80800000,Italy,Europe,41.79578876,12.68968364
+8,Manufacturing,SMB,197,25600000,Spain,Europe,40.60737336,-3.701782483
+9,Manufacturing,Mid-Market,583,149300000,Canada,North America,55.85344377,-106.3206636
+10,Education,Mid-Market,964,111100000,United States,North America,36.91874932,-95.34353421
+11,Manufacturing,Mid-Market,476,156200000,Brazil,Latin America,-14.52120769,-51.91483737
+12,Manufacturing,Mid-Market,866,134200000,Italy,Europe,41.77191971,12.29905599
+13,Technology,Mid-Market,586,125100000,Brazil,Latin America,-14.64342488,-52.40165408
+14,Retail & E-commerce,Mid-Market,1160,245700000,Canada,North America,55.72867776,-105.8819213
+15,Financial Services,Mid-Market,1493,151600000,Canada,North America,56.30694967,-106.3600235
+16,Technology,Enterprise,5352,2257900000,Germany,Europe,50.96810918,10.13110575
+17,Healthcare,Mid-Market,1469,505800000,Germany,Europe,51.64641702,10.85472958
+18,Logistics,Mid-Market,309,52700000,Singapore,Asia-Pacific,1.21755112,103.4190329
+19,Healthcare,Mid-Market,320,60900000,United Kingdom,Europe,55.58328778,-3.125058935
+20,Financial Services,Enterprise,5379,1068100000,Canada,North America,56.18151358,-105.8690838
+21,Logistics,Mid-Market,885,269600000,Brazil,Latin America,-13.99825147,-51.69420527
+22,Logistics,Mid-Market,711,153700000,Germany,Europe,51.15763246,10.3634234
+23,Technology,Enterprise,5577,600600000,Brazil,Latin America,-13.87081014,-51.753142
+24,Retail & E-commerce,SMB,159,17400000,Brazil,Latin America,-14.06605837,-51.6239709
+25,Education,Mid-Market,821,64000000,Canada,North America,56.61625363,-106.7547449
+26,Logistics,Mid-Market,391,63800000,Japan,Asia-Pacific,36.02602101,138.4874392
+27,Education,Mid-Market,848,131600000,United Kingdom,Europe,55.03525065,-3.647733661
+28,Education,SMB,64,8700000,France,Europe,46.23871706,2.288125547
+29,Healthcare,Mid-Market,432,101200000,Singapore,Asia-Pacific,1.698288921,103.7821653
+30,Healthcare,Mid-Market,1202,443000000,Brazil,Latin America,-14.41847551,-52.28330319
+31,Financial Services,Mid-Market,784,143100000,Canada,North America,56.47592258,-106.1987555
+32,Retail & E-commerce,Mid-Market,1358,321800000,Singapore,Asia-Pacific,1.169213307,103.535697
+33,Retail & E-commerce,Mid-Market,1208,152000000,France,Europe,46.67479911,2.449121647
+34,Retail & E-commerce,Mid-Market,908,270000000,Spain,Europe,40.04321295,-3.365050861
+35,Technology,Enterprise,3318,962200000,France,Europe,45.7664161,2.536059478
+36,Technology,Enterprise,2569,547600000,Brazil,Latin America,-14.30743977,-51.83690562
+37,Financial Services,Enterprise,3115,678700000,Netherlands,Europe,52.2436965,5.008418336
+38,Education,Mid-Market,255,33900000,Spain,Europe,40.24005273,-3.324863364
+39,Education,Mid-Market,517,91100000,Spain,Europe,40.63675587,-3.727881596
+40,Financial Services,Enterprise,2941,1979400000,Japan,Asia-Pacific,35.72890595,138.3142448
+41,Technology,Mid-Market,1561,675800000,Italy,Europe,41.38506559,12.22691473
+42,Healthcare,SMB,65,10200000,United Kingdom,Europe,55.20531798,-3.574508446
+43,Manufacturing,Mid-Market,401,33300000,Japan,Asia-Pacific,36.33947687,137.9982757
+44,Technology,Enterprise,3252,724600000,Canada,North America,55.97769415,-106.1274245
+45,Education,Mid-Market,1326,79600000,Canada,North America,55.98251963,-105.9003884
+46,Retail & E-commerce,SMB,110,12100000,United States,North America,37.40921327,-95.68220473
+47,Healthcare,Mid-Market,390,167800000,Japan,Asia-Pacific,36.33421812,138.2340595
+48,Financial Services,Mid-Market,961,224500000,Japan,Asia-Pacific,36.24540032,138.4922209
+49,Financial Services,Mid-Market,571,134100000,Italy,Europe,41.37857278,12.92356093
+50,Technology,Enterprise,4578,1591200000,Singapore,Asia-Pacific,1.450019017,103.7589269
+51,Retail & E-commerce,Mid-Market,770,96000000,Canada,North America,55.98654605,-106.3817175
+52,Education,SMB,119,9100000,Netherlands,Europe,52.50639854,5.443417998
+53,Healthcare,Mid-Market,1403,548700000,Italy,Europe,41.61939513,13.01666067
+54,Manufacturing,Mid-Market,742,196300000,Netherlands,Europe,52.05046213,5.19637925
+55,Healthcare,Mid-Market,1106,202300000,Germany,Europe,50.86937087,10.08765746
+56,Financial Services,Enterprise,3794,2355500000,Spain,Europe,40.6493603,-3.327926781
+57,Financial Services,Mid-Market,899,642500000,Germany,Europe,50.93453318,10.7277292
+58,Retail & E-commerce,SMB,70,4300000,Spain,Europe,40.20998189,-3.661573158
+59,Education,SMB,76,6400000,Japan,Asia-Pacific,35.87451328,138.5920496
+60,Logistics,Mid-Market,1113,148900000,Spain,Europe,40.10642343,-3.862262131
+61,Healthcare,Mid-Market,1224,329800000,Canada,North America,55.74329033,-106.0650367
+62,Healthcare,Mid-Market,583,222000000,Germany,Europe,50.86786937,10.84910294
+63,Education,Mid-Market,735,67700000,France,Europe,46.27157062,2.563600504
+64,Retail & E-commerce,SMB,199,43500000,Netherlands,Europe,52.41537697,5.384329937
+65,Retail & E-commerce,Mid-Market,1084,127100000,Japan,Asia-Pacific,36.22628732,138.4656947
+66,Healthcare,Mid-Market,1087,219700000,Japan,Asia-Pacific,36.04616552,138.744539
+67,Logistics,SMB,112,19500000,France,Europe,46.05620704,2.685592222
+68,Manufacturing,Mid-Market,367,69200000,Netherlands,Europe,52.15140697,5.695262073
+69,Financial Services,Mid-Market,576,118500000,Brazil,Latin America,-14.27379745,-51.54125693
+70,Education,SMB,108,21000000,Canada,North America,56.35559752,-105.961817
+71,Retail & E-commerce,Mid-Market,623,144100000,United Kingdom,Europe,55.01764169,-3.038849898
+72,Technology,Enterprise,3775,845900000,United States,North America,37.22542905,-95.38714998
+73,Retail & E-commerce,SMB,163,29100000,France,Europe,46.269128,1.832496688
+74,Logistics,Mid-Market,1082,111900000,Netherlands,Europe,52.46472894,5.0021207
+75,Manufacturing,Mid-Market,867,163900000,Italy,Europe,41.51388231,12.68299156
+76,Education,Mid-Market,1043,329000000,Spain,Europe,40.08626812,-3.702067351
+77,Retail & E-commerce,SMB,64,7100000,Germany,Europe,51.46340851,10.10340669
+78,Retail & E-commerce,Mid-Market,933,329100000,Japan,Asia-Pacific,35.85332017,138.2277957
+79,Healthcare,Mid-Market,1395,367300000,Brazil,Latin America,-14.42329906,-51.52337129
+80,Healthcare,Mid-Market,551,142000000,Spain,Europe,40.07721698,-3.622304021
+81,Manufacturing,Mid-Market,1105,186300000,Brazil,Latin America,-13.84535457,-52.28324735
+82,Financial Services,Mid-Market,827,218300000,Germany,Europe,51.41632161,10.47606872
+83,Technology,Enterprise,4093,849500000,United States,North America,36.66329786,-95.64972578
+84,Retail & E-commerce,Mid-Market,661,191700000,Canada,North America,56.14974045,-106.4644977
+85,Education,Mid-Market,1442,170800000,United States,North America,36.74367102,-96.04283659
+86,Manufacturing,SMB,198,39000000,United States,North America,37.24092772,-95.42052969
+87,Healthcare,Mid-Market,1089,359300000,Germany,Europe,51.59665303,10.77799881
+88,Retail & E-commerce,Mid-Market,926,228900000,Brazil,Latin America,-14.19820719,-52.22005963
+89,Logistics,SMB,138,8300000,Spain,Europe,40.30106039,-3.27377267
+90,Healthcare,SMB,148,13900000,Singapore,Asia-Pacific,1.793247812,103.8348737
+91,Education,Mid-Market,687,48200000,United States,North America,37.27042475,-95.32104724
+92,Healthcare,SMB,141,16800000,Spain,Europe,40.5693564,-4.073308522
+93,Technology,Enterprise,2447,631200000,Spain,Europe,40.82285457,-3.768733686
+94,Healthcare,Mid-Market,1111,208800000,Brazil,Latin America,-13.95780524,-51.68468382
+95,Financial Services,Enterprise,2115,1268300000,Spain,Europe,40.41558757,-3.798113675
+96,Retail & E-commerce,Mid-Market,1157,398100000,Singapore,Asia-Pacific,0.946565237,103.9142943
+97,Technology,Enterprise,5222,1384000000,Netherlands,Europe,52.1060158,5.630459071
+98,Financial Services,Enterprise,3713,1608900000,Netherlands,Europe,51.83004733,5.097671403
+99,Healthcare,Mid-Market,1058,81500000,Netherlands,Europe,52.21519478,5.440530215
+100,Healthcare,Mid-Market,631,93500000,Germany,Europe,51.55834139,10.08415183
+101,Retail & E-commerce,Mid-Market,778,245600000,France,Europe,46.54657037,2.560027771
+102,Education,SMB,189,11300000,France,Europe,45.99571698,1.797369592
+103,Education,Mid-Market,801,59800000,France,Europe,46.44558132,2.028992822
+104,Manufacturing,Mid-Market,641,179600000,Netherlands,Europe,52.15419166,5.16233647
+105,Manufacturing,Mid-Market,281,53500000,Italy,Europe,41.58893355,12.72916653
+106,Technology,Mid-Market,471,149800000,Netherlands,Europe,52.17670985,5.565901226
+107,Financial Services,Enterprise,3276,1611200000,United States,North America,37.49333827,-95.90207095
+108,Retail & E-commerce,Mid-Market,1354,190800000,Italy,Europe,42.04919839,12.78182339
+109,Healthcare,Mid-Market,751,211100000,Singapore,Asia-Pacific,1.490464854,104.1816343
+110,Healthcare,Mid-Market,1300,241600000,Brazil,Latin America,-14.61725723,-51.7665216
+111,Retail & E-commerce,Mid-Market,401,24700000,United States,North America,37.40537358,-95.30793191
+112,Retail & E-commerce,Mid-Market,932,120400000,Germany,Europe,51.58736936,10.43317922
+113,Technology,Mid-Market,1004,311700000,France,Europe,45.87698113,2.495368038
+114,Logistics,Mid-Market,698,82900000,Japan,Asia-Pacific,36.19795772,138.099395
+115,Financial Services,Enterprise,4273,1245000000,Singapore,Asia-Pacific,1.243438305,103.7701572
+116,Retail & E-commerce,Mid-Market,1466,281300000,Netherlands,Europe,52.39921436,5.361242021
+117,Technology,Mid-Market,541,144500000,United Kingdom,Europe,55.48122155,-3.533402974
+118,Healthcare,Mid-Market,973,260900000,United Kingdom,Europe,54.94579962,-3.821815107
+119,Healthcare,SMB,116,20600000,Netherlands,Europe,52.46005492,5.264352496
+120,Logistics,Mid-Market,918,80700000,Netherlands,Europe,51.84998896,5.212400518
+121,Education,Mid-Market,801,65800000,Netherlands,Europe,52.61365891,5.490302919
+122,Logistics,Mid-Market,780,236500000,Singapore,Asia-Pacific,1.300773367,103.5040186
+123,Financial Services,Enterprise,2906,1565500000,Canada,North America,56.0917396,-106.6075842
+124,Retail & E-commerce,SMB,101,16300000,Germany,Europe,50.69289658,10.20178565
+125,Technology,Mid-Market,1835,667900000,Japan,Asia-Pacific,36.70256508,137.8407346
+126,Logistics,Mid-Market,787,121500000,United States,North America,37.15247905,-95.26016047
+127,Education,Mid-Market,1384,188500000,Singapore,Asia-Pacific,1.026296583,103.4817171
+128,Retail & E-commerce,SMB,82,23600000,Spain,Europe,40.52130691,-4.035803218
+129,Education,Mid-Market,1232,159100000,Singapore,Asia-Pacific,1.469861306,104.3086078
+130,Education,SMB,99,12600000,France,Europe,46.47816682,2.402847265
+131,Education,Mid-Market,1144,94700000,Brazil,Latin America,-14.1876296,-51.89327884
+132,Manufacturing,Mid-Market,1444,524400000,Japan,Asia-Pacific,36.58721284,137.9102252
+133,Education,Mid-Market,466,58900000,Brazil,Latin America,-14.22801201,-51.95659738
+134,Healthcare,Mid-Market,1463,156900000,United States,North America,37.16718943,-95.43324555
+135,Healthcare,Mid-Market,925,90400000,Spain,Europe,40.51829515,-3.93614718
+136,Education,Mid-Market,1030,168100000,Brazil,Latin America,-14.11435746,-52.04076211
+137,Manufacturing,Mid-Market,1197,86800000,United States,North America,37.54151776,-95.51593081
+138,Manufacturing,Mid-Market,735,76200000,Japan,Asia-Pacific,36.40132506,137.8692075
+139,Healthcare,Mid-Market,885,181700000,Singapore,Asia-Pacific,1.743737194,103.9952094
+140,Logistics,Mid-Market,1122,200400000,Spain,Europe,40.94890525,-3.992597938
+141,Technology,Enterprise,3205,549000000,France,Europe,46.23992387,2.322252719
+142,Logistics,Mid-Market,1313,170700000,United Kingdom,Europe,55.48242638,-3.146721109
+143,Manufacturing,Mid-Market,561,109200000,Canada,North America,55.7575901,-106.3348957
+144,Logistics,Mid-Market,341,43600000,Spain,Europe,40.57778409,-3.520359684
+145,Manufacturing,Mid-Market,1378,428800000,United States,North America,37.25172211,-95.70993721
+146,Logistics,Mid-Market,353,29800000,Spain,Europe,40.12769059,-3.875938169
+147,Logistics,Mid-Market,506,82700000,Italy,Europe,41.85407612,12.63233016
+148,Technology,Enterprise,2030,340000000,Spain,Europe,40.96147686,-4.004716244
+149,Logistics,Mid-Market,695,80200000,Netherlands,Europe,52.50601817,5.312122456
+150,Education,Mid-Market,1426,85600000,France,Europe,46.33738917,2.260681254
+151,Healthcare,Mid-Market,580,74000000,Canada,North America,56.42901524,-106.4506242
+152,Manufacturing,Mid-Market,1421,177600000,Canada,North America,55.88677443,-106.140707
+153,Technology,Enterprise,4341,913400000,France,Europe,45.82273708,2.180253416
+154,Technology,Enterprise,5976,959400000,Italy,Europe,42.06506787,12.13711578
+155,Financial Services,Mid-Market,439,157800000,United Kingdom,Europe,55.76913151,-3.4063002
+156,Financial Services,Enterprise,5440,4473000000,France,Europe,46.45404013,2.358500191
+157,Manufacturing,Mid-Market,694,157500000,Germany,Europe,51.46946814,10.72530993
+158,Manufacturing,Mid-Market,671,160500000,Netherlands,Europe,52.09781076,5.738329833
+159,Healthcare,Mid-Market,953,125000000,Italy,Europe,41.84374348,13.0027838
+160,Financial Services,Enterprise,4291,1162200000,United Kingdom,Europe,55.82572275,-3.849646925
+161,Manufacturing,Mid-Market,660,215200000,United Kingdom,Europe,55.5824284,-3.653015198
+162,Technology,Enterprise,4047,857700000,Netherlands,Europe,52.62118941,5.24338929
+163,Healthcare,Mid-Market,1491,241500000,Canada,North America,56.24174046,-106.7613113
+164,Retail & E-commerce,Mid-Market,1204,148300000,Italy,Europe,42.29812078,12.75557285
+165,Technology,Enterprise,5454,2655500000,Netherlands,Europe,51.81343643,4.889651481
+166,Healthcare,Mid-Market,766,140800000,Japan,Asia-Pacific,36.26926326,138.6223385
+167,Education,Mid-Market,627,62800000,France,Europe,46.09522099,2.039696286
+168,Logistics,Mid-Market,567,83800000,United Kingdom,Europe,55.827,-3.885776131
+169,Technology,Mid-Market,1003,191300000,Canada,North America,56.20927652,-106.2463471
+170,Technology,Enterprise,4303,2916100000,Italy,Europe,41.86563244,12.92820813
+171,Financial Services,Enterprise,5608,2124100000,Brazil,Latin America,-14.1282993,-52.32663513
+172,Financial Services,Enterprise,3215,1225700000,United States,North America,36.72348405,-96.05993212
+173,Education,SMB,93,9900000,Germany,Europe,51.34739469,10.83442037
+174,Manufacturing,Mid-Market,784,94800000,United Kingdom,Europe,55.7703267,-3.358983902
+175,Manufacturing,Mid-Market,1447,235300000,Germany,Europe,50.75679162,10.20075136
+176,Technology,Enterprise,4218,1313700000,Spain,Europe,40.45047784,-3.857629102
+177,Financial Services,Enterprise,5322,2471000000,Spain,Europe,40.14306032,-3.88143373
+178,Manufacturing,Mid-Market,1093,157900000,Spain,Europe,40.26741909,-3.579055951
+179,Education,Mid-Market,517,101500000,Singapore,Asia-Pacific,1.459238508,104.0595664
+180,Financial Services,Enterprise,3663,1073700000,Singapore,Asia-Pacific,1.358130152,103.3663767
+181,Logistics,Mid-Market,1395,302000000,Canada,North America,55.96758674,-106.6227023
+182,Technology,Mid-Market,868,234200000,Italy,Europe,41.75582899,12.9857106
+183,Retail & E-commerce,Mid-Market,965,136700000,Singapore,Asia-Pacific,1.625633426,103.3474605
+184,Logistics,Mid-Market,480,97000000,United Kingdom,Europe,55.66384893,-3.058588312
+185,Manufacturing,Mid-Market,894,124000000,United Kingdom,Europe,55.55158932,-3.420629383
+186,Education,Mid-Market,355,49200000,France,Europe,46.69994777,2.045463425
+187,Healthcare,Mid-Market,1200,253000000,Brazil,Latin America,-14.46468612,-51.76795108
+188,Manufacturing,Mid-Market,702,135900000,United Kingdom,Europe,55.00414738,-3.067601659
+189,Technology,Mid-Market,1377,491200000,Germany,Europe,50.71189104,10.46243317
+190,Financial Services,Enterprise,5546,2292900000,Spain,Europe,40.77669904,-4.079109633
+191,Retail & E-commerce,Mid-Market,1351,408100000,Japan,Asia-Pacific,35.74989063,138.0593264
+192,Financial Services,Enterprise,4911,5413300000,Canada,North America,55.77039362,-106.5028297
+193,Education,Mid-Market,1482,195600000,Brazil,Latin America,-13.86670433,-51.50951684
+194,Education,Mid-Market,224,19500000,France,Europe,46.3165576,2.00710482
+195,Technology,Enterprise,5261,3224500000,France,Europe,45.95784953,2.399033402
+196,Healthcare,Mid-Market,564,161400000,Germany,Europe,51.54375742,10.85354785
+197,Manufacturing,Mid-Market,290,32000000,Japan,Asia-Pacific,36.32455113,138.2011874
+198,Retail & E-commerce,Mid-Market,704,89700000,Germany,Europe,50.92374072,10.62075766
+199,Healthcare,Mid-Market,1125,246400000,Canada,North America,56.56046416,-105.9346746
+200,Retail & E-commerce,Mid-Market,1164,236600000,United States,North America,37.18223836,-95.87595239
+201,Financial Services,Enterprise,3413,3289400000,Japan,Asia-Pacific,35.79459237,137.7607812
+202,Financial Services,Mid-Market,1818,428400000,United States,North America,36.60933169,-95.7117221
+203,Healthcare,Mid-Market,908,176700000,United States,North America,36.69601131,-95.3575589
+204,Technology,Enterprise,5162,1465100000,Brazil,Latin America,-13.88070192,-51.90874792
+205,Retail & E-commerce,Mid-Market,1325,479000000,Spain,Europe,40.81671089,-4.054015435
+206,Financial Services,Enterprise,5007,1186300000,Japan,Asia-Pacific,36.04297475,138.5629889
+207,Logistics,Mid-Market,626,88300000,United Kingdom,Europe,55.45758291,-3.088703605
+208,Manufacturing,Mid-Market,1202,107400000,United States,North America,36.8855578,-95.62211961
+209,Manufacturing,Mid-Market,459,32000000,Netherlands,Europe,51.8492611,5.746807882
+210,Technology,Enterprise,5677,3083100000,Spain,Europe,40.51351159,-4.10938579
+211,Manufacturing,Mid-Market,1169,245200000,Canada,North America,56.32329522,-105.9191184
+212,Manufacturing,SMB,66,6900000,United Kingdom,Europe,55.37599259,-3.323395923
+213,Education,Mid-Market,1261,95800000,Italy,Europe,41.79484473,13.03758109
+214,Financial Services,Mid-Market,1532,361000000,France,Europe,45.93118289,2.442781391
+215,Logistics,Mid-Market,593,100400000,Japan,Asia-Pacific,36.22579419,138.4527693
+216,Technology,Enterprise,5651,792400000,France,Europe,46.00993452,2.424534877
+217,Healthcare,Mid-Market,1075,169800000,Japan,Asia-Pacific,36.47906054,138.4119118
+218,Logistics,Mid-Market,274,41700000,Italy,Europe,41.85597072,12.26419525
+219,Education,Mid-Market,370,22200000,United States,North America,36.87089036,-95.72802056
+220,Education,SMB,53,4500000,Japan,Asia-Pacific,35.75045937,138.6906311
+221,Logistics,Mid-Market,594,82200000,United States,North America,37.19522269,-95.39932344
+222,Healthcare,Mid-Market,409,123700000,France,Europe,46.71620661,2.437493994
+223,Logistics,Mid-Market,571,172300000,Canada,North America,56.31788622,-106.242579
+224,Financial Services,Mid-Market,1435,625000000,Canada,North America,56.60372208,-106.3509477
+225,Retail & E-commerce,Mid-Market,820,109700000,United States,North America,37.44490377,-95.59025485
+226,Retail & E-commerce,Mid-Market,235,48900000,United States,North America,37.27691414,-95.97948624
+227,Logistics,Mid-Market,1192,278500000,Canada,North America,56.21051131,-106.3628429
+228,Financial Services,Mid-Market,963,154000000,Netherlands,Europe,52.58283699,5.131313839
+229,Financial Services,Enterprise,3391,1879800000,Brazil,Latin America,-14.02377384,-51.47397637
+230,Logistics,SMB,163,18500000,United Kingdom,Europe,55.00340949,-3.914925361
+231,Education,Mid-Market,1021,79700000,Canada,North America,55.69709538,-106.0098215
+232,Manufacturing,Mid-Market,510,150800000,Netherlands,Europe,52.35341192,5.653812445
+233,Education,Mid-Market,1137,105900000,France,Europe,45.9086358,2.635570528
+234,Technology,Mid-Market,1705,102300000,Germany,Europe,51.54834424,10.17561778
+235,Healthcare,Mid-Market,557,149400000,United States,North America,37.20335616,-96.14578243
+236,Financial Services,Mid-Market,499,185400000,Italy,Europe,42.08633655,12.59055205
+237,Financial Services,Enterprise,4642,3502500000,Netherlands,Europe,52.39263285,5.552664392
+238,Education,Mid-Market,1301,144200000,United Kingdom,Europe,54.95526994,-2.974593601
+239,Logistics,Mid-Market,1008,83600000,Canada,North America,56.43047391,-106.8366201
+240,Technology,Enterprise,3683,1211200000,France,Europe,46.61810166,1.891442708
+241,Financial Services,Enterprise,5700,3048200000,Canada,North America,56.62210028,-106.4567829
+242,Retail & E-commerce,SMB,157,16200000,France,Europe,46.05949321,2.652344554
+243,Retail & E-commerce,Mid-Market,1266,178500000,United Kingdom,Europe,55.16425723,-3.392253358
+244,Retail & E-commerce,Mid-Market,828,184300000,Singapore,Asia-Pacific,0.908261902,103.3794549
+245,Technology,Enterprise,3070,1021000000,Brazil,Latin America,-14.16443531,-52.21618748
+246,Logistics,SMB,70,10600000,Singapore,Asia-Pacific,1.531760612,103.5029604
+247,Financial Services,Enterprise,2515,1356200000,Italy,Europe,41.77118691,12.38550606
+248,Retail & E-commerce,Mid-Market,512,114600000,Italy,Europe,41.60831062,12.11897604
+249,Financial Services,Mid-Market,1179,360800000,Germany,Europe,51.64212426,10.58081155
+250,Education,Mid-Market,457,38300000,Netherlands,Europe,51.70809561,5.42216636
+251,Financial Services,Enterprise,4180,2432900000,Netherlands,Europe,52.6083019,5.522962355
+252,Healthcare,Mid-Market,379,29200000,Canada,North America,56.30104955,-106.2653832
+253,Financial Services,Enterprise,3017,1848500000,Germany,Europe,51.04303361,10.44638542
+254,Manufacturing,SMB,55,6600000,Singapore,Asia-Pacific,1.134584019,103.5496725
+255,Education,Mid-Market,865,92100000,United States,North America,36.71668064,-95.87453894
+256,Retail & E-commerce,Mid-Market,689,101800000,Singapore,Asia-Pacific,0.996864327,103.5707718
+257,Logistics,SMB,118,30600000,Italy,Europe,41.65267764,12.40512106
+258,Education,Mid-Market,1435,148300000,Italy,Europe,42.13914926,12.76077196
+259,Retail & E-commerce,Mid-Market,832,84900000,France,Europe,45.78988777,2.430266438
+260,Technology,Mid-Market,1442,646300000,Canada,North America,56.26012367,-106.3681283
+261,Healthcare,Mid-Market,1030,343800000,United Kingdom,Europe,55.25463066,-3.611506378
+262,Healthcare,Mid-Market,1369,207900000,Germany,Europe,51.22235016,10.21666753
+263,Education,Mid-Market,374,57400000,United States,North America,37.27656881,-95.27027214
+264,Healthcare,Mid-Market,1151,237700000,Netherlands,Europe,51.8926353,5.367035233
+265,Education,Mid-Market,1467,132100000,Netherlands,Europe,52.54487621,5.714530525
+266,Education,Mid-Market,1065,221900000,Italy,Europe,42.28910345,12.76436929
+267,Healthcare,Mid-Market,845,120900000,France,Europe,45.85127361,1.847675297
+268,Manufacturing,SMB,172,10400000,United States,North America,37.04972584,-96.14737466
+269,Logistics,Mid-Market,891,232100000,United States,North America,36.64245203,-95.55926192
+270,Logistics,Mid-Market,472,138000000,United States,North America,37.33796725,-95.84932734
+271,Financial Services,Enterprise,5632,1950600000,Germany,Europe,51.51663989,10.87826755
+272,Education,Mid-Market,1452,196500000,Spain,Europe,40.87010344,-4.052229316
+273,Retail & E-commerce,Mid-Market,971,316100000,United Kingdom,Europe,55.81876849,-3.437214846
+274,Logistics,Mid-Market,371,144100000,Germany,Europe,51.12166166,10.38070099
+275,Healthcare,Mid-Market,376,90000000,Germany,Europe,51.61650897,10.7990985
+276,Education,Mid-Market,1122,112300000,Germany,Europe,51.1945077,10.78157625
+277,Financial Services,Mid-Market,1845,417700000,United Kingdom,Europe,55.60872943,-3.719144364
+278,Logistics,Mid-Market,513,132900000,Japan,Asia-Pacific,35.70598832,138.1724763
+279,Manufacturing,Mid-Market,548,61600000,Canada,North America,56.60204336,-106.1601426
+280,Retail & E-commerce,Mid-Market,497,100600000,Canada,North America,56.37006628,-106.0652042
+281,Financial Services,Enterprise,5368,1863900000,United States,North America,36.79701407,-95.9469344
+282,Manufacturing,Mid-Market,1397,156500000,Spain,Europe,40.0371741,-3.579914812
+283,Manufacturing,Mid-Market,515,65500000,Italy,Europe,41.94128328,12.84460424
+284,Logistics,Mid-Market,491,74700000,United States,North America,37.25042121,-95.75538514
+285,Healthcare,Mid-Market,1010,159100000,Japan,Asia-Pacific,36.51461957,138.6327128
+286,Retail & E-commerce,Mid-Market,1441,536500000,Italy,Europe,42.3318958,12.94320286
+287,Financial Services,Enterprise,2301,1829600000,Germany,Europe,50.75627463,10.4041037
+288,Logistics,Mid-Market,608,220000000,Spain,Europe,40.52358305,-3.934993702
+289,Logistics,Mid-Market,605,153800000,Japan,Asia-Pacific,36.4034719,138.6051793
+290,Retail & E-commerce,Mid-Market,968,74300000,United States,North America,37.17935371,-95.63594872
+291,Technology,Enterprise,5077,2639000000,United Kingdom,Europe,55.46844496,-3.316087492
+292,Technology,Enterprise,4822,995500000,Netherlands,Europe,51.7347664,5.120897627
+293,Education,Mid-Market,328,19700000,Netherlands,Europe,51.99516812,5.357556826
+294,Healthcare,Mid-Market,1208,186400000,United Kingdom,Europe,55.76736067,-3.413227436
+295,Financial Services,Enterprise,4264,1194500000,Singapore,Asia-Pacific,1.5562998,103.9810983
+296,Manufacturing,SMB,140,14600000,Japan,Asia-Pacific,36.53936524,138.5114423
+297,Education,Mid-Market,689,106300000,Spain,Europe,40.30390272,-3.908761648
+298,Manufacturing,Mid-Market,643,82700000,France,Europe,46.10020363,1.824344677
+299,Logistics,Mid-Market,826,164200000,United States,North America,37.1260381,-96.17846125
+300,Financial Services,Mid-Market,492,147000000,Canada,North America,55.99227161,-106.5565211
+301,Financial Services,Mid-Market,1061,509400000,United States,North America,37.14261915,-95.50772116
+302,Manufacturing,Mid-Market,1405,282600000,United States,North America,36.69409647,-95.9851316
+303,Education,Mid-Market,776,173500000,United Kingdom,Europe,55.18977821,-3.09971595
+304,Technology,Mid-Market,1952,793000000,United States,North America,36.70884563,-95.99561347
+305,Education,Mid-Market,575,70200000,Spain,Europe,40.86367732,-3.931031034
+306,Financial Services,Enterprise,2673,1512700000,Canada,North America,56.21230555,-106.7485806
+307,Logistics,Mid-Market,1231,140100000,United Kingdom,Europe,55.64950182,-3.489788525
+308,Education,Mid-Market,670,178100000,Netherlands,Europe,52.47417816,5.634485607
+309,Manufacturing,Mid-Market,352,50100000,Italy,Europe,42.23068026,12.45235257
+310,Logistics,Mid-Market,324,46000000,United States,North America,37.24803837,-95.38529259
+311,Manufacturing,Mid-Market,504,81800000,Netherlands,Europe,52.03740686,5.068397533
+312,Logistics,Mid-Market,622,128400000,United Kingdom,Europe,55.74117943,-3.789251725
+313,Manufacturing,Mid-Market,314,34000000,United Kingdom,Europe,55.49802122,-3.664931087
+314,Healthcare,Mid-Market,229,91900000,Italy,Europe,41.72561943,12.76817976
+315,Technology,Mid-Market,1482,500800000,Netherlands,Europe,52.4505806,5.094546575
+316,Technology,Enterprise,3545,989000000,France,Europe,45.92055436,2.617799078
+317,Logistics,Mid-Market,410,39800000,Germany,Europe,50.75812024,10.40109681
+318,Financial Services,Enterprise,4042,1322600000,Italy,Europe,41.86148831,12.82016237
+319,Healthcare,Mid-Market,1472,229100000,United Kingdom,Europe,54.9767933,-2.968042676
+320,Technology,Enterprise,2887,734300000,Japan,Asia-Pacific,35.89860836,138.0363597
+321,Technology,Enterprise,4415,1416800000,United States,North America,37.0785765,-95.527982
+322,Retail & E-commerce,Mid-Market,753,236500000,United States,North America,37.10814978,-95.53484699
+323,Technology,Mid-Market,1055,499800000,Singapore,Asia-Pacific,1.721905725,104.0699651
+324,Retail & E-commerce,Mid-Market,1327,210700000,Spain,Europe,40.40205044,-3.368816333
+325,Logistics,Mid-Market,963,113600000,France,Europe,46.5310999,2.200421936
+326,Education,Mid-Market,1193,131000000,Italy,Europe,41.75171637,12.26575329
+327,Retail & E-commerce,SMB,75,8900000,Italy,Europe,42.35687467,12.52769223
+328,Financial Services,Mid-Market,748,151900000,Netherlands,Europe,51.98365213,5.286673708
+329,Education,Mid-Market,531,69000000,United States,North America,37.514034,-95.59555729
+330,Technology,Enterprise,4193,1913300000,Germany,Europe,51.01832931,10.48416792
+331,Logistics,Mid-Market,288,84800000,United States,North America,36.7565766,-95.32249173
+332,Technology,Enterprise,2225,735400000,France,Europe,45.80613009,2.647221855
+333,Manufacturing,Mid-Market,403,75500000,Italy,Europe,41.64055573,12.4805968
+334,Education,Mid-Market,1461,228200000,Spain,Europe,40.29999112,-3.450232121
+335,Education,Mid-Market,810,67800000,France,Europe,46.46394562,1.892487547
+336,Logistics,Mid-Market,639,101400000,Brazil,Latin America,-14.59265706,-51.76408388
+337,Education,Mid-Market,979,83500000,Singapore,Asia-Pacific,1.175161302,103.3678947
+338,Retail & E-commerce,Mid-Market,1463,329600000,Germany,Europe,51.6428481,10.85911368
+339,Logistics,Mid-Market,353,57900000,Singapore,Asia-Pacific,1.529876834,103.5778947
+340,Manufacturing,Mid-Market,780,106800000,Italy,Europe,41.82091871,12.46537516
+341,Logistics,Mid-Market,470,69600000,Spain,Europe,40.10881742,-3.583885945
+342,Retail & E-commerce,Mid-Market,953,306900000,Italy,Europe,42.13884698,12.78818294
+343,Retail & E-commerce,Mid-Market,718,160500000,Canada,North America,55.69205791,-106.6398905
+344,Healthcare,Mid-Market,565,73600000,Canada,North America,56.13658392,-106.5978395
+345,Education,Mid-Market,1466,320400000,Germany,Europe,51.07602372,10.91084453
+346,Healthcare,Mid-Market,768,185000000,Italy,Europe,41.38383619,12.08742309
+347,Healthcare,Mid-Market,480,64900000,United States,North America,36.77419437,-95.2946404
+348,Technology,Enterprise,5707,2873800000,Japan,Asia-Pacific,36.36622123,138.216334
+349,Technology,Enterprise,3189,1749800000,Singapore,Asia-Pacific,1.321998947,103.9143377
+350,Financial Services,Enterprise,5447,3223700000,Japan,Asia-Pacific,36.37428089,138.0550303
+351,Retail & E-commerce,Mid-Market,1030,316500000,France,Europe,46.32108402,2.120195208
+352,Financial Services,Mid-Market,1090,388800000,Japan,Asia-Pacific,36.69123385,138.3859349
+353,Technology,Enterprise,3031,1249000000,Spain,Europe,40.76570792,-3.754526168
+354,Retail & E-commerce,Mid-Market,431,39500000,United Kingdom,Europe,55.42566728,-3.53799146
+355,Retail & E-commerce,Mid-Market,592,113900000,Brazil,Latin America,-14.65126572,-52.2445459
+356,Logistics,Mid-Market,283,24200000,United States,North America,37.25378516,-96.03460573
+357,Education,SMB,79,4700000,United Kingdom,Europe,55.83541346,-3.362445137
+358,Retail & E-commerce,Mid-Market,577,153400000,United States,North America,37.37354967,-95.54981504
+359,Technology,Mid-Market,882,145700000,Japan,Asia-Pacific,35.79117583,138.5219971
+360,Technology,Enterprise,5200,2000500000,Brazil,Latin America,-13.97017289,-51.91612866
+361,Manufacturing,Mid-Market,1076,81000000,Spain,Europe,40.47895604,-3.95550806
+362,Technology,Enterprise,5441,833000000,Spain,Europe,40.89361401,-4.048283318
+363,Education,Mid-Market,797,47800000,United States,North America,36.64576526,-95.97298704
+364,Technology,Enterprise,4142,818700000,Germany,Europe,51.06839995,10.57443437
+365,Technology,Enterprise,2954,332300000,United States,North America,37.39825392,-95.89157981
+366,Manufacturing,Mid-Market,1442,246100000,United Kingdom,Europe,55.15663785,-3.363712001
+367,Healthcare,Mid-Market,267,53400000,Italy,Europe,41.45681137,12.4730604
+368,Financial Services,Mid-Market,1876,523700000,Japan,Asia-Pacific,35.80983139,138.3998789
+369,Retail & E-commerce,Mid-Market,403,48800000,Canada,North America,55.9726571,-106.5256208
+370,Retail & E-commerce,Mid-Market,1212,308600000,Canada,North America,56.1232754,-106.2654798
+371,Retail & E-commerce,Mid-Market,1438,726100000,Japan,Asia-Pacific,35.79703235,138.6340417
+372,Logistics,Mid-Market,1491,96000000,Japan,Asia-Pacific,36.3517158,138.2268084
+373,Education,Mid-Market,276,26200000,United States,North America,37.01469118,-95.51505754
+374,Healthcare,Mid-Market,668,184200000,Japan,Asia-Pacific,36.66335444,137.8854253
+375,Education,Mid-Market,847,175800000,Japan,Asia-Pacific,36.62674286,138.6724061
+376,Logistics,Mid-Market,305,144900000,Spain,Europe,40.19601782,-4.124124717
+377,Technology,Enterprise,5391,834000000,Germany,Europe,51.30392166,10.43797349
+378,Manufacturing,Mid-Market,901,141800000,Spain,Europe,40.81628464,-3.827761012
+379,Financial Services,Enterprise,4136,1143300000,Spain,Europe,40.49475121,-4.098552397
+380,Healthcare,Mid-Market,1146,481700000,Singapore,Asia-Pacific,1.777066348,104.2394955
+381,Financial Services,Enterprise,5867,3135300000,France,Europe,46.68788882,1.917119444
+382,Financial Services,Enterprise,4630,1710700000,Singapore,Asia-Pacific,1.718527235,103.6058244
+383,Healthcare,Mid-Market,741,154300000,France,Europe,45.74517865,1.822377646
+384,Manufacturing,Mid-Market,700,122800000,Italy,Europe,41.42551649,12.12038231
+385,Logistics,Mid-Market,1481,203000000,Japan,Asia-Pacific,36.59421183,138.7461185
+386,Retail & E-commerce,Mid-Market,394,62100000,Singapore,Asia-Pacific,1.6688858,104.1128159
+387,Technology,Enterprise,5525,2091900000,United Kingdom,Europe,55.09024502,-3.729197269
+388,Healthcare,Mid-Market,861,273500000,Japan,Asia-Pacific,35.93485233,138.6144731
+389,Financial Services,Enterprise,2425,348500000,Italy,Europe,41.49643503,12.67433251
+390,Education,Mid-Market,339,114600000,Brazil,Latin America,-14.02795609,-51.69804085
+391,Technology,Mid-Market,1126,450400000,France,Europe,46.38388189,2.336598339
+392,Education,Mid-Market,1014,136600000,Singapore,Asia-Pacific,1.006553607,104.0349557
+393,Retail & E-commerce,Mid-Market,584,121900000,Germany,Europe,50.72170378,10.24819708
+394,Retail & E-commerce,SMB,137,21300000,Canada,North America,55.70925162,-106.5610988
+395,Education,Mid-Market,318,90100000,France,Europe,46.25390552,2.398138655
+396,Manufacturing,SMB,144,23700000,Spain,Europe,40.02188331,-3.862198308
+397,Manufacturing,Mid-Market,567,51300000,Germany,Europe,50.76623614,10.72266788
+398,Financial Services,Mid-Market,1451,554900000,Germany,Europe,51.26643041,10.38084573
+399,Manufacturing,Mid-Market,386,62200000,Italy,Europe,41.9982881,12.72537522
+400,Retail & E-commerce,Mid-Market,550,125800000,Canada,North America,55.86472235,-106.2816667
+401,Healthcare,Mid-Market,907,195500000,Brazil,Latin America,-14.21489895,-51.48635444
+402,Technology,Enterprise,5680,1907100000,Singapore,Asia-Pacific,1.134813411,103.5605049
+403,Retail & E-commerce,Mid-Market,265,43600000,Japan,Asia-Pacific,36.48188246,137.7658804
+404,Manufacturing,Mid-Market,651,205800000,Spain,Europe,40.4888437,-3.254644629
+405,Education,Mid-Market,250,41400000,France,Europe,46.4233502,2.30744855
+406,Retail & E-commerce,Mid-Market,982,272200000,United States,North America,37.46386483,-95.23724402
+407,Technology,Enterprise,2137,3205500000,United States,North America,36.86414668,-95.49453572
+408,Manufacturing,SMB,190,20000000,Singapore,Asia-Pacific,1.583199043,104.1619751
+409,Logistics,Mid-Market,686,194400000,France,Europe,46.02840636,2.601706717
+410,Retail & E-commerce,Mid-Market,577,124000000,United Kingdom,Europe,55.68995583,-3.413076628
+411,Retail & E-commerce,Mid-Market,1019,199200000,Germany,Europe,51.36147679,10.00081576
+412,Logistics,Mid-Market,370,72900000,Canada,North America,55.83538932,-106.0738669
+413,Retail & E-commerce,Mid-Market,889,206900000,Canada,North America,55.97598609,-106.525044
+414,Manufacturing,Mid-Market,535,103300000,Spain,Europe,40.82085218,-3.842167777
+415,Technology,Enterprise,4922,832900000,United Kingdom,Europe,55.83528787,-3.569974033
+416,Healthcare,Mid-Market,1083,190700000,Germany,Europe,51.27753809,10.859976
+417,Financial Services,Enterprise,4753,862100000,France,Europe,45.95499707,2.45971461
+418,Technology,Enterprise,2816,2172500000,United States,North America,37.2914048,-95.99293986
+419,Retail & E-commerce,Mid-Market,1227,195400000,Italy,Europe,42.0308184,12.53195681
+420,Retail & E-commerce,Mid-Market,700,193200000,France,Europe,46.05056946,2.051789928
+421,Education,Mid-Market,1483,90500000,Japan,Asia-Pacific,35.83416356,137.9421326
+422,Financial Services,Enterprise,5363,1448200000,Spain,Europe,40.70683976,-3.816305071
+423,Manufacturing,Mid-Market,920,221900000,France,Europe,46.03087166,1.767183774
+424,Retail & E-commerce,Mid-Market,317,41200000,United Kingdom,Europe,55.16058572,-3.657895442
+425,Manufacturing,Mid-Market,735,207300000,Brazil,Latin America,-14.56715976,-51.49157297
+426,Logistics,Mid-Market,776,94500000,Italy,Europe,42.34908572,12.76755024
+427,Retail & E-commerce,Mid-Market,783,69900000,Netherlands,Europe,52.27126528,5.481635159
+428,Healthcare,Mid-Market,1153,348800000,France,Europe,46.22314085,1.913961112
+429,Retail & E-commerce,Mid-Market,892,269200000,Italy,Europe,41.45214476,12.82334976
+430,Technology,Enterprise,3724,808400000,Spain,Europe,40.86097125,-4.030845816
+431,Manufacturing,Mid-Market,542,34600000,Singapore,Asia-Pacific,1.092260149,103.8861779
+432,Manufacturing,Mid-Market,485,46400000,Canada,North America,56.5704535,-106.1794966
+433,Technology,Enterprise,2946,1286800000,Germany,Europe,50.83078207,9.980987103
+434,Technology,Enterprise,4413,1665300000,Germany,Europe,51.22055563,9.971640087
+435,Logistics,Mid-Market,244,51400000,France,Europe,45.92470135,1.783394371
+436,Logistics,Mid-Market,916,77300000,Spain,Europe,40.3828968,-3.868172036
+437,Logistics,Mid-Market,1057,174200000,Brazil,Latin America,-14.72118004,-51.46691192
+438,Technology,Mid-Market,1590,234500000,Italy,Europe,41.69010715,12.6828093
+439,Retail & E-commerce,Mid-Market,1234,413900000,Spain,Europe,40.60333255,-3.59939278
+440,Manufacturing,Mid-Market,1192,192300000,United States,North America,36.92221369,-95.60693943
+441,Manufacturing,Mid-Market,1410,295100000,Canada,North America,56.3892413,-106.1573287
+442,Financial Services,Enterprise,2111,967800000,Netherlands,Europe,52.53177174,4.820040671
+443,Healthcare,Mid-Market,1274,379200000,Canada,North America,56.2868564,-105.9630075
+444,Manufacturing,SMB,140,15200000,Canada,North America,56.04414759,-106.6504993
+445,Logistics,Mid-Market,459,84100000,Italy,Europe,42.34737398,12.96285552
+446,Retail & E-commerce,Mid-Market,824,116300000,United Kingdom,Europe,55.23347935,-3.869538044
+447,Manufacturing,Mid-Market,605,75800000,Japan,Asia-Pacific,36.49691371,137.8431959
+448,Healthcare,Mid-Market,890,245900000,France,Europe,45.82366613,1.93926943
+449,Manufacturing,Mid-Market,472,37400000,Canada,North America,56.3495094,-106.1119445
+450,Financial Services,Enterprise,4969,1157700000,France,Europe,46.32430213,2.668989378
+451,Logistics,Mid-Market,597,46300000,France,Europe,46.02544462,2.472517707
+452,Manufacturing,Mid-Market,1332,261300000,Brazil,Latin America,-14.62867204,-51.75516978
+453,Retail & E-commerce,Mid-Market,1220,264400000,Japan,Asia-Pacific,35.89192983,138.4347245
+454,Logistics,Mid-Market,1259,163400000,United States,North America,36.81819255,-95.90311562
+455,Education,Mid-Market,1384,192300000,Singapore,Asia-Pacific,1.044142348,103.6359842
+456,Financial Services,Enterprise,2204,580800000,Singapore,Asia-Pacific,1.326034818,103.5027138
+457,Technology,Mid-Market,1851,308400000,Brazil,Latin America,-14.49361559,-51.9799814
+458,Logistics,Mid-Market,1128,182900000,Singapore,Asia-Pacific,1.722601279,103.6334449
+459,Logistics,Mid-Market,747,143800000,Japan,Asia-Pacific,36.41900722,137.9370446
+460,Manufacturing,Mid-Market,693,62900000,Japan,Asia-Pacific,35.77833873,138.6392246
+461,Manufacturing,Mid-Market,672,138600000,Netherlands,Europe,51.70449241,5.353303663
+462,Financial Services,Enterprise,3348,1262200000,Netherlands,Europe,52.49273181,5.597130113
+463,Healthcare,SMB,182,28900000,United States,North America,37.56883382,-95.91880843
+464,Manufacturing,Mid-Market,245,59400000,Canada,North America,56.2291467,-105.8650197
+465,Financial Services,Mid-Market,992,447300000,Canada,North America,56.30823269,-106.3029426
+466,Financial Services,Mid-Market,1660,700400000,Singapore,Asia-Pacific,1.744292565,104.2713776
+467,Logistics,Mid-Market,686,114000000,Spain,Europe,40.12496954,-4.106441051
+468,Financial Services,Enterprise,3012,1055900000,United States,North America,37.4063731,-95.69971113
+469,Education,Mid-Market,440,80900000,United Kingdom,Europe,55.75649655,-3.07809045
+470,Logistics,Mid-Market,943,159100000,Netherlands,Europe,52.36774459,5.540594521
+471,Healthcare,Mid-Market,1193,369000000,Italy,Europe,41.62033295,12.21096588
+472,Healthcare,Mid-Market,915,388900000,Germany,Europe,51.07911587,10.75810105
+473,Logistics,SMB,141,17200000,Canada,North America,55.98147225,-106.4257943
+474,Education,Mid-Market,1038,107200000,Brazil,Latin America,-13.97079676,-51.56749787
+475,Retail & E-commerce,Mid-Market,1113,266800000,United States,North America,37.13428569,-96.18132078
+476,Healthcare,Mid-Market,1300,382500000,United Kingdom,Europe,55.73173646,-2.973309243
+477,Technology,Enterprise,2073,874100000,United Kingdom,Europe,54.96380174,-3.924956922
+478,Healthcare,Mid-Market,766,283500000,Italy,Europe,42.36649963,12.25845768
+479,Financial Services,Mid-Market,1875,651800000,Canada,North America,56.27737593,-106.1412887
+480,Manufacturing,Mid-Market,859,121300000,Brazil,Latin America,-14.66153547,-51.53770151
+481,Retail & E-commerce,Mid-Market,1034,96200000,United Kingdom,Europe,55.83410455,-2.988193943
+482,Technology,Enterprise,4208,1302800000,Italy,Europe,41.74178336,12.37660125
+483,Healthcare,Mid-Market,293,86400000,Italy,Europe,41.38987672,12.18145069
+484,Healthcare,Mid-Market,1009,385300000,Canada,North America,56.37451538,-106.6362411
+485,Logistics,Mid-Market,1360,198800000,Canada,North America,56.09785512,-105.9098773
+486,Healthcare,SMB,152,20400000,Canada,North America,55.88680249,-106.8115936
+487,Manufacturing,Mid-Market,1177,306800000,Canada,North America,56.29756605,-105.8638666
+488,Healthcare,Mid-Market,996,494000000,France,Europe,46.3400372,2.248335399
+489,Healthcare,Mid-Market,584,81700000,Japan,Asia-Pacific,36.28611364,138.4949298
+490,Healthcare,Mid-Market,678,179100000,Japan,Asia-Pacific,35.88029187,138.1548515
+491,Education,Mid-Market,1457,212300000,Netherlands,Europe,52.07808421,5.39393736
+492,Retail & E-commerce,Mid-Market,1335,128000000,United Kingdom,Europe,55.40143891,-3.837280025
+493,Technology,Enterprise,5411,3472500000,Brazil,Latin America,-14.0302098,-52.21274221
+494,Healthcare,Mid-Market,494,74900000,Canada,North America,55.81021412,-106.5066035
+495,Education,Mid-Market,581,59500000,Canada,North America,56.36104424,-106.0719467
+496,Technology,Mid-Market,1134,109300000,Netherlands,Europe,52.09644647,5.040914606
+497,Healthcare,Mid-Market,1042,179700000,Germany,Europe,51.20600937,10.41765915
+498,Manufacturing,Mid-Market,1148,212800000,Italy,Europe,41.96888123,12.58431303
+499,Healthcare,SMB,57,9400000,France,Europe,46.04115193,1.732392176
+500,Technology,Mid-Market,395,29900000,Singapore,Asia-Pacific,1.74456555,103.9993708
+501,Technology,Enterprise,3789,1359200000,Singapore,Asia-Pacific,1.292371788,104.2276896
+502,Retail & E-commerce,Mid-Market,1173,235000000,Brazil,Latin America,-14.34590271,-51.61242297
+503,Education,Mid-Market,1333,156700000,United Kingdom,Europe,55.07006992,-3.744276785
+504,Retail & E-commerce,SMB,84,9700000,Singapore,Asia-Pacific,1.532915278,103.4524335
+505,Financial Services,Enterprise,2144,403600000,Spain,Europe,40.77188475,-4.015874767
+506,Financial Services,Enterprise,2873,1610900000,France,Europe,46.22034797,2.700134965
+507,Retail & E-commerce,Mid-Market,962,119500000,Spain,Europe,40.56577278,-3.250932636
+508,Technology,Mid-Market,1202,391200000,Brazil,Latin America,-14.38952176,-52.18293907
+509,Education,Mid-Market,673,129500000,Germany,Europe,51.64243726,10.89182728
+510,Manufacturing,Mid-Market,551,107700000,Singapore,Asia-Pacific,1.79125487,103.8451703
+511,Retail & E-commerce,SMB,168,47700000,Brazil,Latin America,-13.96601276,-51.48196282
+512,Financial Services,Enterprise,3826,544600000,Germany,Europe,50.80680198,10.78484735
+513,Education,Mid-Market,894,96900000,Canada,North America,56.10135666,-106.7085456
+514,Financial Services,Enterprise,3354,851000000,Singapore,Asia-Pacific,1.2093838,104.055503
+515,Logistics,Mid-Market,1349,141400000,Singapore,Asia-Pacific,1.728046374,104.0031967
+516,Healthcare,Mid-Market,376,64600000,France,Europe,46.36287797,2.60355475
+517,Logistics,Mid-Market,1013,182300000,Germany,Europe,51.5652359,10.09611158
+518,Healthcare,Mid-Market,538,108500000,United States,North America,36.90263356,-96.06994423
+519,Financial Services,Enterprise,5744,1039700000,United Kingdom,Europe,55.81835342,-3.305173723
+520,Logistics,SMB,171,13000000,Germany,Europe,51.52512626,10.19080915
+521,Education,Mid-Market,586,38000000,Italy,Europe,42.03556534,12.47526693
+522,Education,Mid-Market,453,60500000,Germany,Europe,51.22466632,10.40819212
+523,Manufacturing,Mid-Market,351,62700000,Brazil,Latin America,-13.76294886,-52.22038035
+524,Manufacturing,Mid-Market,1080,359400000,Netherlands,Europe,52.42483622,5.044425367
+525,Retail & E-commerce,Mid-Market,1236,117400000,Italy,Europe,42.17816994,12.27074218
+526,Education,Mid-Market,647,66200000,Italy,Europe,41.55819878,12.64135299
+527,Manufacturing,SMB,166,14700000,Spain,Europe,40.23148328,-3.939974775
+528,Logistics,Mid-Market,1419,602500000,Netherlands,Europe,52.04979597,4.999461625
+529,Retail & E-commerce,Mid-Market,218,24400000,Singapore,Asia-Pacific,1.694692428,103.9538061
+530,Healthcare,SMB,54,5700000,Canada,North America,55.88476184,-106.2187975
+531,Healthcare,SMB,118,18600000,United Kingdom,Europe,54.99586656,-2.938587407
+532,Logistics,Mid-Market,425,51300000,United States,North America,37.46355586,-95.79336794
+533,Education,Mid-Market,811,190900000,Brazil,Latin America,-14.49640821,-51.60356831
+534,Technology,Mid-Market,1801,208400000,Netherlands,Europe,52.00845003,5.544878958
+535,Education,Mid-Market,432,85300000,Germany,Europe,51.10144677,10.44147715
+536,Education,Mid-Market,1325,147600000,France,Europe,46.28290579,2.453097318
+537,Manufacturing,Mid-Market,229,23500000,France,Europe,45.91619464,1.931442035
+538,Manufacturing,Mid-Market,1160,69600000,United States,North America,37.55755753,-95.81438094
+539,Financial Services,Mid-Market,1393,440300000,France,Europe,46.41519642,1.935747028
+540,Retail & E-commerce,Mid-Market,1199,233300000,France,Europe,46.71747739,2.290511029
+541,Retail & E-commerce,Mid-Market,255,34600000,Italy,Europe,41.64934429,12.60816209
+542,Healthcare,Mid-Market,912,101800000,Spain,Europe,40.14030278,-4.080388009
+543,Logistics,Mid-Market,1291,172200000,France,Europe,46.2093437,2.528783547
+544,Healthcare,SMB,58,8100000,Germany,Europe,51.2947528,10.90207032
+545,Technology,Enterprise,3634,779100000,Japan,Asia-Pacific,36.06413529,138.3255458
+546,Healthcare,Mid-Market,1096,295500000,United Kingdom,Europe,54.98323262,-3.336847775
+547,Education,Mid-Market,1102,171800000,Brazil,Latin America,-14.69227442,-51.77627772
+548,Technology,Enterprise,5629,2599300000,United Kingdom,Europe,55.09874134,-3.786207839
+549,Financial Services,Enterprise,4216,793300000,Italy,Europe,42.28311529,12.63927681
+550,Technology,Enterprise,5267,2430500000,Italy,Europe,41.52017227,12.32637367
+551,Financial Services,Enterprise,2449,514300000,Singapore,Asia-Pacific,1.827723438,104.2888069
+552,Healthcare,Mid-Market,277,25200000,Netherlands,Europe,52.01316556,5.329686734
+553,Logistics,SMB,146,27600000,Netherlands,Europe,51.78928794,5.55829899
+554,Retail & E-commerce,Mid-Market,534,89500000,United Kingdom,Europe,55.79983672,-3.379061301
+555,Manufacturing,Mid-Market,928,69000000,Netherlands,Europe,51.89930048,4.795127338
+556,Logistics,Mid-Market,981,230600000,Italy,Europe,41.99157885,12.33104279
+557,Education,Mid-Market,662,41000000,Canada,North America,55.93030046,-106.327067
+558,Healthcare,Mid-Market,1110,182500000,Germany,Europe,51.35189998,10.92515635
+559,Education,Mid-Market,463,51600000,France,Europe,46.50882389,2.046473614
+560,Financial Services,Enterprise,3178,638600000,United States,North America,37.22030907,-95.68073443
+561,Financial Services,Enterprise,5718,2488500000,Germany,Europe,50.97420664,10.63210762
+562,Healthcare,Mid-Market,1011,202100000,Italy,Europe,42.06330411,12.39392691
+563,Financial Services,Mid-Market,1778,236900000,Netherlands,Europe,52.03473474,5.416155387
+564,Manufacturing,SMB,163,11200000,Italy,Europe,41.72435984,12.43238859
+565,Manufacturing,Mid-Market,1149,145900000,Spain,Europe,40.34347464,-4.136007257
+566,Technology,Enterprise,2459,494100000,Netherlands,Europe,51.87657473,4.935452252
+567,Healthcare,Mid-Market,970,194000000,Brazil,Latin America,-14.32565915,-52.27559323
+568,Manufacturing,Mid-Market,1211,275600000,Canada,North America,56.14793424,-106.5554033
+569,Healthcare,Mid-Market,827,215500000,Singapore,Asia-Pacific,1.265763208,104.0959059
+570,Retail & E-commerce,Mid-Market,1282,268800000,United Kingdom,Europe,55.58120518,-2.973698507
+571,Healthcare,SMB,100,19300000,Brazil,Latin America,-14.47878058,-51.69560457
+572,Financial Services,Mid-Market,1687,491700000,Germany,Europe,51.08092227,10.21227889
+573,Technology,Enterprise,2722,2110200000,Germany,Europe,51.57833893,10.40545825
+574,Healthcare,Mid-Market,1373,253700000,United States,North America,36.75357702,-96.06758391
+575,Healthcare,Mid-Market,472,101000000,France,Europe,46.4055693,2.59896878
+576,Financial Services,Mid-Market,1409,336900000,Singapore,Asia-Pacific,1.519125601,104.0216403
+577,Technology,Enterprise,2175,621300000,Singapore,Asia-Pacific,0.949194529,103.7081233
+578,Healthcare,SMB,171,35600000,Italy,Europe,42.09653758,12.51108444
+579,Education,Mid-Market,1356,134300000,Italy,Europe,42.26136772,12.80297229
+580,Education,Mid-Market,774,162900000,Germany,Europe,51.01504961,10.12112377
+581,Healthcare,Mid-Market,1003,186500000,Canada,North America,56.38515811,-105.9207273
+582,Healthcare,Mid-Market,535,219400000,United States,North America,37.05607969,-95.91340172
+583,Education,Mid-Market,684,100400000,Brazil,Latin America,-14.72294635,-52.19996079
+584,Education,Mid-Market,1267,158900000,Italy,Europe,41.51817642,12.98505626
+585,Education,Mid-Market,595,35700000,Singapore,Asia-Pacific,1.416416889,103.4128898
+586,Logistics,Mid-Market,1013,90800000,United States,North America,37.46860087,-95.72215316
+587,Financial Services,Enterprise,4857,4222200000,Brazil,Latin America,-14.32612119,-52.23138744
+588,Technology,Enterprise,4272,2068200000,Japan,Asia-Pacific,36.28104976,137.7536243
+589,Financial Services,Enterprise,4392,817300000,Netherlands,Europe,51.90286641,4.95796693
+590,Technology,Enterprise,3136,516100000,Canada,North America,55.83903377,-105.991438
+591,Financial Services,Enterprise,4469,910300000,Italy,Europe,41.6904362,12.74373341
+592,Manufacturing,Mid-Market,247,57700000,France,Europe,46.17165535,1.872512193
+593,Retail & E-commerce,Mid-Market,219,42600000,Brazil,Latin America,-13.95116015,-52.21757295
+594,Healthcare,Mid-Market,1085,480200000,United States,North America,36.79336362,-95.78991828
+595,Financial Services,Enterprise,4302,4365600000,United Kingdom,Europe,55.39540097,-3.275274356
+596,Retail & E-commerce,Mid-Market,751,45100000,Italy,Europe,41.79696331,12.21875196
+597,Financial Services,Enterprise,2571,938800000,Netherlands,Europe,51.90493098,5.158047421
+598,Healthcare,Mid-Market,246,53700000,Japan,Asia-Pacific,36.34484878,138.731841
+599,Technology,Mid-Market,1457,139900000,United Kingdom,Europe,55.58399195,-3.300548389
+600,Retail & E-commerce,Mid-Market,1308,217900000,Brazil,Latin America,-14.03824786,-51.80029004
+601,Technology,Mid-Market,1883,428000000,United States,North America,37.15543019,-95.73525473
+602,Healthcare,Mid-Market,467,106700000,Netherlands,Europe,51.72356076,4.850431004
+603,Logistics,Mid-Market,555,50500000,Brazil,Latin America,-14.10755858,-51.97045172
+604,Financial Services,Enterprise,2257,568200000,Brazil,Latin America,-14.52103788,-51.63681458
+605,Education,Mid-Market,530,66900000,Brazil,Latin America,-14.65493242,-52.24381549
+606,Retail & E-commerce,SMB,118,18500000,Japan,Asia-Pacific,35.77981199,138.3831712
+607,Healthcare,Mid-Market,1421,301700000,Canada,North America,56.01445334,-106.017772
+608,Financial Services,Enterprise,3487,1171100000,Canada,North America,56.23508366,-106.6713148
+609,Retail & E-commerce,Mid-Market,1246,495600000,Germany,Europe,51.3009526,10.69230173
+610,Technology,Enterprise,4791,2300500000,Brazil,Latin America,-14.21607862,-51.92882247
+611,Retail & E-commerce,Mid-Market,1490,444600000,Italy,Europe,42.10042535,13.06439745
+612,Education,Mid-Market,499,49600000,United States,North America,36.95063892,-95.69429059
+613,Technology,Mid-Market,321,190300000,United Kingdom,Europe,55.13333604,-3.716249814
+614,Manufacturing,Mid-Market,1336,89800000,Canada,North America,56.60909617,-106.7900651
+615,Manufacturing,SMB,50,5000000,Japan,Asia-Pacific,36.63161125,138.541642
+616,Manufacturing,SMB,124,11400000,Germany,Europe,51.05936948,10.78193886
+617,Retail & E-commerce,Mid-Market,328,76100000,Italy,Europe,42.18771202,12.43911749
+618,Education,Mid-Market,286,28900000,Canada,North America,55.98311808,-106.358951
+619,Retail & E-commerce,Mid-Market,333,30800000,United Kingdom,Europe,55.11808737,-3.413264654
+620,Financial Services,Enterprise,5823,1830800000,Netherlands,Europe,52.38334848,5.517094033
+621,Manufacturing,SMB,50,3200000,Italy,Europe,42.25055386,12.44866083
+622,Manufacturing,Mid-Market,994,67900000,United States,North America,36.85386982,-95.25276163
+623,Financial Services,Mid-Market,678,254500000,Singapore,Asia-Pacific,1.208202253,103.7936839
+624,Education,Mid-Market,460,57800000,Italy,Europe,41.56243732,12.47522465
+625,Healthcare,Mid-Market,1003,148700000,Japan,Asia-Pacific,36.01636729,138.0066096
+626,Financial Services,Enterprise,3830,1840100000,Japan,Asia-Pacific,35.86139318,137.83565
+627,Logistics,Mid-Market,879,107600000,Germany,Europe,51.58302755,10.02906796
+628,Education,Mid-Market,973,62500000,United Kingdom,Europe,55.06585404,-3.036174106
+629,Financial Services,Enterprise,3009,672300000,Singapore,Asia-Pacific,1.84872225,104.0532119
+630,Financial Services,Mid-Market,309,159100000,Japan,Asia-Pacific,36.40358105,138.3155757
+631,Technology,Mid-Market,746,125900000,Germany,Europe,51.50838793,10.72919971
+632,Financial Services,Enterprise,4181,965700000,Spain,Europe,40.59049236,-3.495572611
+633,Education,Mid-Market,1092,108200000,Japan,Asia-Pacific,36.33879698,138.0842204
+634,Manufacturing,Mid-Market,1199,91500000,France,Europe,46.71764924,2.172644808
+635,Retail & E-commerce,Mid-Market,1490,276200000,Brazil,Latin America,-14.72185816,-51.93349927
+636,Logistics,Mid-Market,238,24500000,Japan,Asia-Pacific,36.55448259,138.5989275
+637,Manufacturing,Mid-Market,912,177400000,Netherlands,Europe,52.05639744,4.835114648
+638,Retail & E-commerce,Mid-Market,258,57900000,Singapore,Asia-Pacific,1.250530496,103.9798334
+639,Education,Mid-Market,1087,133600000,Italy,Europe,42.0905766,12.34246217
+640,Financial Services,Enterprise,5349,1609400000,Spain,Europe,40.57847942,-3.659374793
+641,Technology,Enterprise,2084,1920200000,Canada,North America,56.04648797,-106.4393982
+642,Retail & E-commerce,SMB,99,17400000,Italy,Europe,42.01562637,12.60010077
+643,Technology,Mid-Market,500,67200000,Brazil,Latin America,-13.98209907,-51.78974854
+644,Financial Services,Enterprise,4859,2911300000,Japan,Asia-Pacific,36.5614334,138.0295726
+645,Logistics,Mid-Market,790,94200000,Spain,Europe,40.73009485,-3.614343085
+646,Financial Services,Enterprise,2861,1163400000,Singapore,Asia-Pacific,1.419327382,103.5045781
+647,Education,Mid-Market,1147,177600000,Spain,Europe,40.21833101,-3.76141069
+648,Healthcare,Mid-Market,569,93100000,United Kingdom,Europe,54.98668477,-3.896410886
+649,Retail & E-commerce,SMB,161,17200000,Brazil,Latin America,-14.25934104,-51.9952898
+650,Logistics,Mid-Market,619,108100000,France,Europe,46.23459104,1.897316873
+651,Manufacturing,Mid-Market,1034,197700000,Canada,North America,56.42777606,-106.1566057
+652,Financial Services,Enterprise,2696,1532400000,Germany,Europe,51.4479351,10.66807735
+653,Logistics,Mid-Market,527,100500000,Brazil,Latin America,-14.43348977,-51.75091115
+654,Logistics,Mid-Market,1318,190800000,Brazil,Latin America,-14.3725375,-51.6353898
+655,Technology,Enterprise,3752,3648700000,United Kingdom,Europe,55.49515383,-3.274407363
+656,Technology,Enterprise,3446,1168400000,France,Europe,46.52019201,1.762122397
+657,Manufacturing,Mid-Market,696,238800000,Netherlands,Europe,52.6267855,4.838991062
+658,Healthcare,Mid-Market,957,117000000,United States,North America,36.96183818,-95.33836412
+659,Retail & E-commerce,Mid-Market,723,182900000,United Kingdom,Europe,55.60546305,-3.339495823
+660,Education,Mid-Market,1390,83400000,Brazil,Latin America,-14.08555634,-52.32497561
+661,Education,SMB,84,5000000,France,Europe,46.72555445,2.01942861
+662,Manufacturing,Mid-Market,1113,95500000,Germany,Europe,51.10644262,10.07526219
+663,Financial Services,Enterprise,4784,1940700000,Netherlands,Europe,51.66893443,4.825948923
+664,Education,Mid-Market,989,163800000,Canada,North America,56.38662565,-105.9320975
+665,Technology,Enterprise,3424,1413500000,France,Europe,46.07386887,2.053176419
+666,Retail & E-commerce,Mid-Market,579,88400000,Brazil,Latin America,-14.20490561,-51.91929577
+667,Manufacturing,SMB,138,20000000,Brazil,Latin America,-14.63856396,-51.96701132
+668,Retail & E-commerce,Mid-Market,1071,319900000,France,Europe,46.40145037,2.308641332
+669,Education,Mid-Market,318,30300000,Brazil,Latin America,-14.69387231,-52.1534149
+670,Manufacturing,Mid-Market,933,206100000,Japan,Asia-Pacific,36.25443087,137.9869877
+671,Retail & E-commerce,Mid-Market,625,145000000,Canada,North America,56.12108326,-106.4415986
+672,Healthcare,Mid-Market,989,216400000,Spain,Europe,40.68790294,-4.103848396
+673,Healthcare,Mid-Market,501,81600000,Germany,Europe,51.14777006,10.64960725
+674,Technology,Mid-Market,786,257000000,Netherlands,Europe,51.79339525,5.401560594
+675,Education,Mid-Market,1100,140600000,Japan,Asia-Pacific,36.00961354,138.5783135
+676,Manufacturing,Mid-Market,647,198500000,Brazil,Latin America,-14.43069461,-51.70904755
+677,Healthcare,Mid-Market,1010,84300000,United States,North America,37.15968932,-95.59827361
+678,Technology,Enterprise,4376,3864800000,Canada,North America,56.32269623,-106.0482594
+679,Logistics,SMB,68,7700000,Spain,Europe,40.35266922,-3.840052666
+680,Healthcare,Mid-Market,1181,200400000,Spain,Europe,40.43832739,-3.596540889
+681,Retail & E-commerce,Mid-Market,628,137600000,Japan,Asia-Pacific,36.36613453,138.2208433
+682,Logistics,SMB,124,7400000,France,Europe,45.94009214,2.626798908
+683,Logistics,Mid-Market,1456,155800000,Netherlands,Europe,52.4800093,5.777100012
+684,Technology,Enterprise,4358,991200000,Brazil,Latin America,-14.32961206,-51.90230666
+685,Healthcare,Mid-Market,1290,247200000,Germany,Europe,51.52636805,10.54351456
+686,Healthcare,Mid-Market,256,122200000,United States,North America,37.24447904,-95.39438049
+687,Technology,Enterprise,4291,1605300000,Brazil,Latin America,-14.12720779,-52.31925885
+688,Retail & E-commerce,Mid-Market,502,75300000,United States,North America,36.89334717,-95.42980068
+689,Retail & E-commerce,Mid-Market,1211,72700000,Brazil,Latin America,-14.71814826,-51.66806567
+690,Education,Mid-Market,927,205400000,Japan,Asia-Pacific,35.89009325,138.0984814
+691,Technology,Enterprise,3264,1295800000,Japan,Asia-Pacific,35.70765141,137.8981384
+692,Education,SMB,175,14300000,Netherlands,Europe,51.6615894,5.686870952
+693,Technology,Mid-Market,624,76700000,France,Europe,46.70844537,2.134650494
+694,Manufacturing,Mid-Market,1301,302100000,Germany,Europe,51.08916699,10.49899697
+695,Financial Services,Mid-Market,1590,408500000,Italy,Europe,41.46794921,12.76862749
+696,Healthcare,Mid-Market,581,128600000,Italy,Europe,41.95524083,12.33456148
+697,Healthcare,Mid-Market,649,85900000,United Kingdom,Europe,54.91960268,-3.056792349
+698,Technology,Enterprise,5676,1773900000,Netherlands,Europe,52.50886787,5.643783527
+699,Healthcare,Mid-Market,1069,203000000,Singapore,Asia-Pacific,0.932780753,103.3960854
+700,Logistics,Mid-Market,201,23700000,Brazil,Latin America,-14.02617659,-51.88268103
+701,Logistics,Mid-Market,202,33100000,Spain,Europe,40.61918105,-3.268675698
+702,Logistics,Mid-Market,649,188200000,United States,North America,36.9022696,-95.21491667
+703,Technology,Enterprise,3014,393900000,Canada,North America,56.60372517,-106.7958454
+704,Education,Mid-Market,1444,170800000,Italy,Europe,42.33365875,12.95273633
+705,Technology,Enterprise,3444,3510800000,United Kingdom,Europe,55.62133923,-3.536888598
+706,Manufacturing,Mid-Market,1335,416000000,United Kingdom,Europe,55.39695067,-3.464588011
+707,Technology,Enterprise,2982,919300000,Japan,Asia-Pacific,36.14138855,138.429493
+708,Financial Services,Enterprise,4679,3032100000,Italy,Europe,42.36044543,12.61851271
+709,Healthcare,Mid-Market,1206,246200000,Japan,Asia-Pacific,35.97081688,138.6925369
+710,Technology,Enterprise,4862,2477700000,Italy,Europe,41.73795828,12.95874126
+711,Logistics,SMB,189,15000000,Italy,Europe,42.02204018,12.95284175
+712,Financial Services,Enterprise,5619,367600000,Netherlands,Europe,52.07991083,5.174439294
+713,Education,Mid-Market,502,61100000,Canada,North America,56.25198662,-106.4454818
+714,Financial Services,Mid-Market,1819,285700000,Japan,Asia-Pacific,36.33213528,138.1827273
+715,Logistics,Mid-Market,907,95700000,Singapore,Asia-Pacific,1.205228131,104.2070675
+716,Logistics,Mid-Market,514,41000000,Italy,Europe,41.75442865,13.05928574
+717,Retail & E-commerce,Mid-Market,351,77700000,Canada,North America,56.38319833,-106.3872933
+718,Logistics,Mid-Market,1343,383500000,United States,North America,37.53390831,-95.6526631
+719,Manufacturing,Mid-Market,1428,156500000,Spain,Europe,40.46839012,-3.52660732
+720,Healthcare,Mid-Market,421,97800000,Italy,Europe,41.67531536,13.06373543
+721,Education,Mid-Market,690,157800000,Canada,North America,55.96589211,-106.6438375
+722,Healthcare,Mid-Market,1425,308000000,Spain,Europe,40.84796461,-3.316248679
+723,Logistics,Mid-Market,1307,200200000,Singapore,Asia-Pacific,1.336615888,104.038093
+724,Logistics,Mid-Market,773,63600000,France,Europe,46.65852193,2.645088754
+725,Financial Services,Enterprise,2514,1035500000,Italy,Europe,42.31201092,12.56784795
+726,Technology,Enterprise,3636,1374000000,France,Europe,45.97669168,1.783611441
+727,Technology,Enterprise,2071,432500000,Spain,Europe,40.04706467,-3.520680465
+728,Manufacturing,Mid-Market,1170,168100000,Netherlands,Europe,52.09658201,4.792804372
+729,Manufacturing,Mid-Market,697,93800000,Germany,Europe,51.12139131,10.90844171
+730,Healthcare,Mid-Market,485,129000000,Canada,North America,55.63794685,-106.3502706
+731,Retail & E-commerce,Mid-Market,283,100200000,France,Europe,46.24635025,2.136153793
+732,Healthcare,SMB,143,23000000,Canada,North America,56.14254364,-106.0815247
+733,Technology,Mid-Market,1931,750500000,Italy,Europe,41.8468442,12.27752699
+734,Logistics,Mid-Market,1364,290100000,United States,North America,36.72704847,-95.87099148
+735,Retail & E-commerce,Mid-Market,261,30100000,Brazil,Latin America,-14.40939589,-51.96094586
+736,Retail & E-commerce,Mid-Market,537,100300000,Italy,Europe,42.3291147,12.1514057
+737,Education,Mid-Market,718,87700000,Singapore,Asia-Pacific,1.171417719,103.9869644
+738,Manufacturing,Mid-Market,1073,138300000,Netherlands,Europe,51.81077146,5.784872938
+739,Financial Services,Enterprise,5058,1480400000,Singapore,Asia-Pacific,1.041636417,103.5600544
+740,Manufacturing,Mid-Market,1065,118800000,Spain,Europe,40.83912276,-3.529568675
+741,Retail & E-commerce,Mid-Market,1302,562600000,Brazil,Latin America,-13.7460055,-51.4532173
+742,Technology,Enterprise,2178,867400000,Italy,Europe,42.25151061,12.59731418
+743,Manufacturing,Mid-Market,1051,86600000,Netherlands,Europe,52.3518761,5.490401069
+744,Retail & E-commerce,Mid-Market,977,120400000,Germany,Europe,50.88900709,10.9072191
+745,Logistics,Mid-Market,1290,140500000,Singapore,Asia-Pacific,0.99790872,103.7438305
+746,Manufacturing,Mid-Market,497,107700000,France,Europe,46.65613999,2.631816131
+747,Healthcare,Mid-Market,418,53000000,Germany,Europe,51.57929417,10.52112768
+748,Healthcare,Mid-Market,681,143500000,United Kingdom,Europe,55.59913909,-3.380605352
+749,Technology,Enterprise,2147,371900000,Netherlands,Europe,51.80867546,4.890057597
+750,Retail & E-commerce,Mid-Market,298,28100000,Canada,North America,56.34331865,-106.7696883
+751,Healthcare,Mid-Market,602,129500000,Spain,Europe,40.45903489,-3.645668716
+752,Retail & E-commerce,Mid-Market,1173,390700000,Brazil,Latin America,-14.55648205,-52.29020239
+753,Education,SMB,132,8000000,United Kingdom,Europe,55.26068177,-3.719194632
+754,Education,SMB,74,10500000,Italy,Europe,41.92863809,12.55204274
+755,Technology,Mid-Market,1109,204600000,Germany,Europe,51.46928264,10.49221824
+756,Education,Mid-Market,1088,164700000,Germany,Europe,51.66427209,10.67934295
+757,Healthcare,Mid-Market,946,169600000,Spain,Europe,40.64461193,-4.147093168
+758,Healthcare,Mid-Market,1003,190200000,Brazil,Latin America,-13.75676649,-52.42107361
+759,Technology,Mid-Market,1714,978600000,Brazil,Latin America,-14.61746279,-51.84099933
+760,Financial Services,Enterprise,4851,2245700000,Brazil,Latin America,-13.82407536,-52.28045836
+761,Manufacturing,Mid-Market,645,70800000,United States,North America,37.35854697,-95.48366301
+762,Retail & E-commerce,Mid-Market,1205,193900000,United Kingdom,Europe,55.76636524,-3.620192852
+763,Logistics,Mid-Market,301,39100000,Brazil,Latin America,-14.26060039,-52.32818516
+764,Technology,Mid-Market,1518,372100000,Canada,North America,56.61944544,-106.0505065
+765,Retail & E-commerce,SMB,63,7300000,United States,North America,36.93479587,-95.90741008
+766,Financial Services,Enterprise,4332,1598000000,Germany,Europe,51.4364729,10.64983946
+767,Education,Mid-Market,1176,343500000,United Kingdom,Europe,55.77842132,-3.369890248
+768,Healthcare,Mid-Market,287,48500000,Brazil,Latin America,-14.25891516,-51.80503154
+769,Technology,Mid-Market,504,121500000,Singapore,Asia-Pacific,1.718362496,104.294914
+770,Financial Services,Enterprise,4223,1893900000,Singapore,Asia-Pacific,1.015676576,103.7242243
+771,Retail & E-commerce,Mid-Market,1050,219000000,Singapore,Asia-Pacific,0.916987469,103.8042969
+772,Technology,Enterprise,5327,3012900000,Netherlands,Europe,52.52865825,5.482406541
+773,Manufacturing,Mid-Market,733,185900000,Spain,Europe,40.89716755,-3.774617762
+774,Logistics,Mid-Market,507,59500000,Italy,Europe,42.04931133,12.34126332
+775,Technology,Enterprise,4604,1595000000,Brazil,Latin America,-14.02859593,-52.26265143
+776,Education,Mid-Market,1236,190300000,United States,North America,36.77659179,-95.91369435
+777,Logistics,Mid-Market,463,67600000,Singapore,Asia-Pacific,1.646928484,104.3171484
+778,Retail & E-commerce,SMB,68,14800000,United States,North America,37.34900459,-95.2891359
+779,Technology,Enterprise,3753,1631300000,France,Europe,46.5667363,1.830457885
+780,Manufacturing,Mid-Market,961,137100000,France,Europe,46.06375517,1.743262335
+781,Retail & E-commerce,Mid-Market,1375,271300000,United Kingdom,Europe,55.54920269,-3.027816973
+782,Education,Mid-Market,519,55900000,France,Europe,45.85669504,2.570564748
+783,Technology,Enterprise,5455,2450200000,France,Europe,46.67493512,1.805410258
+784,Manufacturing,Mid-Market,963,237300000,France,Europe,46.46157978,2.509903213
+785,Retail & E-commerce,Mid-Market,677,53700000,Italy,Europe,42.1488303,13.01561124
+786,Retail & E-commerce,Mid-Market,497,90000000,Germany,Europe,50.89925854,10.1634056
+787,Retail & E-commerce,Mid-Market,1252,407300000,France,Europe,46.5143931,2.562033792
+788,Manufacturing,Mid-Market,1195,166300000,Singapore,Asia-Pacific,1.417494623,103.5597162
+789,Manufacturing,Mid-Market,1103,75800000,France,Europe,46.06131127,1.882987295
+790,Education,Mid-Market,816,128000000,United Kingdom,Europe,55.4069133,-3.101115333
+791,Healthcare,Mid-Market,1072,144300000,Netherlands,Europe,52.39527443,5.125236165
+792,Financial Services,Enterprise,5776,4037900000,Canada,North America,56.55469382,-105.8648941
+793,Retail & E-commerce,Mid-Market,975,474900000,Germany,Europe,51.14526829,10.43449547
+794,Technology,Enterprise,4232,958400000,Germany,Europe,51.298891,10.57979122
+795,Logistics,Mid-Market,1409,185000000,Germany,Europe,51.20563258,10.39088258
+796,Healthcare,Mid-Market,339,238300000,Germany,Europe,51.25429428,10.29944467
+797,Financial Services,Enterprise,4550,2751800000,Japan,Asia-Pacific,35.76443658,138.5579624
+798,Logistics,Mid-Market,1246,355400000,Japan,Asia-Pacific,35.84563959,138.7078623
+799,Manufacturing,Mid-Market,960,102400000,Japan,Asia-Pacific,36.34666316,138.6632264
+800,Education,Mid-Market,1029,259100000,Germany,Europe,50.77159596,10.22263146
+801,Manufacturing,Mid-Market,1379,315000000,Netherlands,Europe,51.80278396,4.819918163
+802,Manufacturing,Mid-Market,1018,135000000,Japan,Asia-Pacific,36.68842723,138.3888533
+803,Financial Services,Enterprise,4355,1616200000,France,Europe,45.81398954,2.009831401
+804,Education,Mid-Market,240,16000000,Canada,North America,56.26685627,-106.5965626
+805,Retail & E-commerce,Mid-Market,841,167200000,Italy,Europe,42.01863109,13.02144319
+806,Technology,Enterprise,2623,1156500000,Germany,Europe,51.1321883,10.66629799
+807,Financial Services,Enterprise,4617,1454400000,Singapore,Asia-Pacific,1.104980416,103.7632577
+808,Technology,Enterprise,2263,285900000,Canada,North America,56.04374692,-106.2099561
+809,Healthcare,Mid-Market,1082,467300000,Spain,Europe,40.88430746,-3.966828063
+810,Healthcare,Mid-Market,1147,190200000,Netherlands,Europe,51.90760352,5.73622549
+811,Healthcare,Mid-Market,519,122800000,Germany,Europe,50.68765189,10.10211262
+812,Financial Services,Mid-Market,714,424600000,Canada,North America,56.40761197,-106.3589556
+813,Logistics,Mid-Market,1458,157800000,Germany,Europe,51.04597429,10.54102134
+814,Logistics,Mid-Market,1281,227300000,Japan,Asia-Pacific,35.74595341,138.5901571
+815,Retail & E-commerce,Mid-Market,208,27300000,Singapore,Asia-Pacific,0.965735429,104.0201066
+816,Technology,Mid-Market,383,201500000,Spain,Europe,40.9605154,-3.937455707
+817,Technology,Enterprise,4807,4819000000,Spain,Europe,40.46069959,-4.184247093
+818,Logistics,Mid-Market,357,94100000,Netherlands,Europe,52.28568695,5.78460506
+819,Financial Services,Mid-Market,1805,1015800000,Japan,Asia-Pacific,36.33606427,137.9161553
+820,Technology,Enterprise,3849,749400000,Germany,Europe,51.09231528,10.07048452
+821,Logistics,Mid-Market,675,75000000,Singapore,Asia-Pacific,0.959092461,103.4936962
+822,Healthcare,Mid-Market,773,338900000,United Kingdom,Europe,55.19469149,-3.732963582
+823,Healthcare,Mid-Market,695,217700000,Japan,Asia-Pacific,36.25024051,138.0140266
+824,Retail & E-commerce,Mid-Market,642,150700000,Spain,Europe,40.40386684,-3.598012601
+825,Retail & E-commerce,Mid-Market,705,96000000,Italy,Europe,42.14475595,12.42768391
+826,Manufacturing,Mid-Market,287,33600000,Canada,North America,56.18553003,-106.1217475
+827,Financial Services,Enterprise,4754,1698500000,Brazil,Latin America,-14.15285918,-52.31370757
+828,Technology,Enterprise,5194,4545300000,United Kingdom,Europe,54.88859213,-2.965875902
+829,Retail & E-commerce,Mid-Market,671,161700000,Italy,Europe,41.59519127,12.88305457
+830,Logistics,Mid-Market,858,102700000,Singapore,Asia-Pacific,1.605591766,104.05589
+831,Retail & E-commerce,Mid-Market,798,137800000,Italy,Europe,42.18101172,12.2708679
+832,Healthcare,Mid-Market,836,141000000,Spain,Europe,40.51575115,-4.170861296
+833,Healthcare,Mid-Market,896,233900000,Germany,Europe,51.1802933,10.46076714
+834,Manufacturing,Mid-Market,1226,169200000,Germany,Europe,50.77051654,10.85987677
+835,Logistics,Mid-Market,1147,90900000,Canada,North America,56.14763152,-106.1822449
+836,Financial Services,Enterprise,5699,2300300000,United States,North America,36.69752526,-95.34704003
+837,Retail & E-commerce,Mid-Market,1496,420100000,France,Europe,46.01571179,2.493422602
+838,Manufacturing,Mid-Market,543,128300000,Brazil,Latin America,-14.35576572,-51.68319543
+839,Logistics,SMB,98,10600000,United Kingdom,Europe,55.04284482,-3.069994544
+840,Healthcare,Mid-Market,639,316400000,France,Europe,45.7639648,2.237016675
+841,Financial Services,Enterprise,5530,1430700000,Brazil,Latin America,-14.55345279,-51.95829889
+842,Technology,Mid-Market,1815,831500000,Canada,North America,56.35124204,-106.6304683
+843,Technology,Enterprise,5798,2974100000,Spain,Europe,40.50600484,-3.500310781
+844,Financial Services,Mid-Market,1106,367800000,Germany,Europe,51.14138603,10.71112468
+845,Retail & E-commerce,Mid-Market,946,76000000,United Kingdom,Europe,55.36461375,-3.157497158
+846,Manufacturing,Mid-Market,1056,228400000,United Kingdom,Europe,55.7214251,-3.134630134
+847,Technology,Mid-Market,745,135800000,France,Europe,46.42669805,1.726909306
+848,Manufacturing,Mid-Market,1017,145600000,France,Europe,46.05180153,2.405130313
+849,Technology,Enterprise,2677,238400000,Italy,Europe,42.05929202,12.88121877
+850,Retail & E-commerce,SMB,134,17400000,United Kingdom,Europe,55.08347166,-3.432395191
+851,Logistics,Mid-Market,467,89700000,Singapore,Asia-Pacific,1.640595638,103.3742177
+852,Education,Mid-Market,1136,137500000,United Kingdom,Europe,55.36617996,-2.953102542
+853,Education,Mid-Market,368,43700000,Germany,Europe,51.04359343,10.3539
+854,Healthcare,Mid-Market,927,183000000,Netherlands,Europe,51.67969468,5.107445589
+855,Manufacturing,Mid-Market,566,90300000,Spain,Europe,40.04493847,-3.810864919
+856,Logistics,Mid-Market,1209,280800000,Germany,Europe,50.82999343,10.07326525
+857,Manufacturing,Mid-Market,686,89200000,Spain,Europe,40.06989014,-3.657487868
+858,Manufacturing,Mid-Market,564,165900000,Brazil,Latin America,-14.4805072,-51.73755185
+859,Logistics,Mid-Market,585,111700000,Singapore,Asia-Pacific,1.306927865,104.2329077
+860,Retail & E-commerce,SMB,111,16000000,Italy,Europe,41.68703476,12.78949562
+861,Technology,Enterprise,4903,2366400000,France,Europe,46.2664055,1.72183112
+862,Healthcare,Mid-Market,489,184100000,Japan,Asia-Pacific,35.76208413,138.3963206
+863,Manufacturing,Mid-Market,292,80200000,Japan,Asia-Pacific,36.00045904,138.6326286
+864,Financial Services,Enterprise,4743,2903000000,France,Europe,45.80514393,1.931999529
+865,Manufacturing,Mid-Market,1201,108600000,Netherlands,Europe,52.0429273,5.360405112
+866,Retail & E-commerce,Mid-Market,794,148700000,Germany,Europe,50.87689629,10.69228461
+867,Financial Services,Mid-Market,1480,256300000,Netherlands,Europe,52.10168107,4.891975551
+868,Financial Services,Enterprise,3408,821500000,Brazil,Latin America,-14.66362265,-51.44289265
+869,Manufacturing,Mid-Market,511,75100000,United Kingdom,Europe,55.83072542,-2.963842347
+870,Logistics,Mid-Market,263,44800000,Singapore,Asia-Pacific,1.187011326,103.3502584
+871,Financial Services,Enterprise,5868,1948500000,Singapore,Asia-Pacific,1.333111716,104.1273095
+872,Logistics,Mid-Market,692,46400000,Japan,Asia-Pacific,36.13412424,137.9373927
+873,Manufacturing,Mid-Market,924,200700000,Singapore,Asia-Pacific,1.414518643,104.0296487
+874,Retail & E-commerce,Mid-Market,543,91600000,United Kingdom,Europe,55.57085971,-3.76575692
+875,Education,SMB,97,9900000,Japan,Asia-Pacific,35.75216405,138.5337861
+876,Logistics,Mid-Market,375,42000000,Netherlands,Europe,52.57440664,5.782111425
+877,Technology,Enterprise,4152,997400000,United States,North America,37.34421921,-95.74529571
+878,Healthcare,Mid-Market,1017,217100000,Japan,Asia-Pacific,36.43842671,137.9108133
+879,Healthcare,SMB,141,19100000,Singapore,Asia-Pacific,1.235360379,103.7186019
+880,Retail & E-commerce,Mid-Market,793,104500000,France,Europe,46.43185283,2.438737336
+881,Education,Mid-Market,1425,136800000,France,Europe,46.05684743,2.573383245
+882,Retail & E-commerce,Mid-Market,273,25300000,Spain,Europe,40.15627476,-4.029886095
+883,Financial Services,Mid-Market,815,152600000,United States,North America,37.21219869,-95.9024427
+884,Logistics,Mid-Market,744,74800000,Brazil,Latin America,-13.75806544,-52.02573229
+885,Technology,Enterprise,4975,2598400000,United Kingdom,Europe,55.23052552,-3.651169603
+886,Logistics,Mid-Market,527,117200000,Singapore,Asia-Pacific,0.853921554,103.6305803
+887,Education,Mid-Market,205,15000000,Germany,Europe,51.6013442,10.31905642
+888,Technology,Enterprise,3969,1438600000,Brazil,Latin America,-14.58407428,-51.73742675
+889,Technology,Enterprise,4177,686900000,Spain,Europe,40.02205898,-3.313481061
+890,Education,Mid-Market,1448,154100000,United Kingdom,Europe,55.87474344,-3.403232751
+891,Logistics,Mid-Market,1246,99200000,Spain,Europe,40.73987154,-4.041573621
+892,Retail & E-commerce,Mid-Market,1422,178100000,United States,North America,36.66909137,-96.17853448
+893,Manufacturing,Mid-Market,745,130700000,Germany,Europe,50.83407043,10.4940578
+894,Healthcare,Mid-Market,980,366500000,France,Europe,46.66699201,2.078094797
+895,Retail & E-commerce,Mid-Market,1461,331200000,Canada,North America,55.94855913,-106.7088562
+896,Retail & E-commerce,Mid-Market,993,217800000,France,Europe,46.66945647,2.619703039
+897,Technology,Enterprise,3269,1611400000,United States,North America,37.46040895,-95.57253837
+898,Logistics,Mid-Market,592,111600000,Canada,North America,56.28647544,-106.2687488
+899,Education,Mid-Market,1260,118700000,Canada,North America,55.86915137,-105.9272007
+900,Logistics,Mid-Market,1489,225800000,Brazil,Latin America,-14.7117734,-51.62632268
+901,Technology,Enterprise,5031,1391400000,Germany,Europe,51.34915368,10.48054468
+902,Logistics,Mid-Market,391,73900000,Brazil,Latin America,-14.19719462,-52.37424091
+903,Manufacturing,Mid-Market,1088,125400000,Brazil,Latin America,-14.07860836,-52.05167175
+904,Technology,Enterprise,3169,886500000,United States,North America,37.46269196,-95.35234437
+905,Technology,Enterprise,5964,2405800000,Canada,North America,56.24982039,-106.0680415
+906,Retail & E-commerce,Mid-Market,1111,250800000,Canada,North America,55.92298208,-106.7580052
+907,Logistics,Mid-Market,367,59400000,Canada,North America,55.78084456,-106.3882498
+908,Retail & E-commerce,Mid-Market,524,115700000,Brazil,Latin America,-14.06908047,-51.82144741
+909,Healthcare,SMB,78,14500000,Spain,Europe,40.43313106,-3.379524905
+910,Logistics,Mid-Market,359,52000000,Italy,Europe,41.9631585,12.41243342
+911,Logistics,Mid-Market,244,25100000,France,Europe,45.73829007,2.605579192
+912,Education,Mid-Market,905,186800000,France,Europe,46.07607616,2.627958759
+913,Healthcare,Mid-Market,672,114900000,Italy,Europe,42.24280791,12.25788199
+914,Technology,Enterprise,2426,429500000,Netherlands,Europe,52.11831071,5.365286735
+915,Logistics,Mid-Market,504,50200000,Canada,North America,55.66240362,-106.5988775
+916,Education,SMB,140,10800000,Singapore,Asia-Pacific,1.037516294,103.5572327
+917,Technology,Enterprise,3116,788700000,Singapore,Asia-Pacific,1.169660631,103.3486327
+918,Healthcare,Mid-Market,1363,239200000,Spain,Europe,39.99545019,-3.347330018
+919,Education,Mid-Market,706,65700000,United Kingdom,Europe,55.33689026,-3.627571381
+920,Financial Services,Enterprise,2705,552000000,United States,North America,37.05761109,-95.93646912
+921,Retail & E-commerce,Mid-Market,219,103500000,Italy,Europe,42.28075948,12.45084634
+922,Financial Services,Enterprise,4006,3314700000,Netherlands,Europe,52.09150467,5.408397008
+923,Financial Services,Enterprise,5489,2436400000,Spain,Europe,40.15116631,-4.229149718
+924,Retail & E-commerce,Mid-Market,1471,351200000,Netherlands,Europe,52.32896603,5.025337493
+925,Manufacturing,Mid-Market,1099,185800000,Germany,Europe,51.20871508,10.73192087
+926,Education,Mid-Market,978,93400000,Netherlands,Europe,52.04590887,5.562894483
+927,Manufacturing,Mid-Market,603,92400000,Italy,Europe,41.62455131,12.37104591
+928,Retail & E-commerce,Mid-Market,1421,410800000,United Kingdom,Europe,55.68474204,-3.044275373
+929,Education,Mid-Market,620,106400000,France,Europe,45.98119788,2.635807578
+930,Financial Services,Enterprise,5798,1601800000,Netherlands,Europe,51.90122041,5.269523897
+931,Technology,Mid-Market,1683,314900000,United States,North America,37.41251696,-96.10931795
+932,Technology,Mid-Market,400,189000000,United Kingdom,Europe,55.0749914,-3.048094426
+933,Education,Mid-Market,648,47000000,France,Europe,45.88804386,2.428684281
+934,Education,Mid-Market,634,87900000,Japan,Asia-Pacific,36.50810442,138.5649656
+935,Manufacturing,Mid-Market,538,175400000,Singapore,Asia-Pacific,1.242830198,103.9554626
+936,Manufacturing,Mid-Market,1410,540900000,France,Europe,45.96085278,2.298585803
+937,Education,Mid-Market,619,87700000,Italy,Europe,42.08805381,12.69708
+938,Manufacturing,Mid-Market,887,139400000,United States,North America,36.75329917,-95.31096697
+939,Technology,Enterprise,2704,3036200000,United Kingdom,Europe,54.95683209,-3.764959174
+940,Financial Services,Mid-Market,1338,186200000,Singapore,Asia-Pacific,1.064343675,104.1551399
+941,Technology,Enterprise,3421,2478300000,United Kingdom,Europe,55.57337461,-3.512063824
+942,Retail & E-commerce,Mid-Market,855,135200000,Netherlands,Europe,52.04607284,5.384437757
+943,Retail & E-commerce,Mid-Market,1476,278700000,Singapore,Asia-Pacific,1.824155492,104.2355345
+944,Healthcare,Mid-Market,868,218800000,Brazil,Latin America,-14.69359917,-51.64026782
+945,Manufacturing,Mid-Market,987,320700000,Japan,Asia-Pacific,36.37930805,137.9003367
+946,Manufacturing,Mid-Market,491,51400000,Netherlands,Europe,52.3060923,5.610040741
+947,Healthcare,Mid-Market,294,43000000,Italy,Europe,42.31089371,12.99161503
+948,Manufacturing,Mid-Market,494,88000000,France,Europe,46.06689488,2.196778132
+949,Healthcare,Mid-Market,226,87100000,Spain,Europe,40.07171238,-4.115989466
+950,Healthcare,Mid-Market,1038,70000000,Germany,Europe,51.0001867,10.77156119
+951,Technology,Enterprise,2261,405700000,United Kingdom,Europe,55.8462618,-2.993734073
+952,Financial Services,Enterprise,5607,5933400000,Japan,Asia-Pacific,36.09265598,138.6073802
+953,Logistics,SMB,80,16700000,Italy,Europe,42.13437492,12.49364931
+954,Financial Services,Enterprise,5987,2058700000,Spain,Europe,40.1584849,-3.290951462
+955,Education,Mid-Market,971,269600000,Italy,Europe,42.07588161,12.85259154
+956,Education,Mid-Market,1416,98300000,Canada,North America,56.38601101,-106.5462305
+957,Retail & E-commerce,Mid-Market,237,50100000,Netherlands,Europe,52.49507346,4.851873004
+958,Education,Mid-Market,353,37000000,Netherlands,Europe,52.33296262,5.139985967
+959,Technology,Enterprise,3870,704900000,Spain,Europe,40.40295813,-4.103664066
+960,Logistics,Mid-Market,303,38900000,Spain,Europe,40.24146817,-4.164494096
+961,Retail & E-commerce,Mid-Market,1289,165800000,Netherlands,Europe,52.49407466,5.726364802
+962,Education,Mid-Market,206,26100000,France,Europe,46.39463312,2.329302229
+963,Technology,Enterprise,2015,247200000,Canada,North America,56.07132786,-106.550401
+964,Logistics,Mid-Market,285,67600000,France,Europe,45.75678549,2.443546014
+965,Healthcare,Mid-Market,811,134600000,Canada,North America,56.26386505,-106.3483203
+966,Retail & E-commerce,Mid-Market,1037,406300000,Germany,Europe,50.95668432,10.19175486
+967,Education,Mid-Market,1174,111100000,United Kingdom,Europe,55.18824624,-3.583339367
+968,Healthcare,Mid-Market,460,73000000,Netherlands,Europe,51.63993051,5.064233584
+969,Healthcare,Mid-Market,1364,574900000,United States,North America,36.77090827,-95.88780721
+970,Financial Services,Enterprise,2704,764500000,Brazil,Latin America,-14.57804966,-51.98850872
+971,Healthcare,Mid-Market,1331,891300000,Japan,Asia-Pacific,36.12969363,138.2360218
+972,Financial Services,Enterprise,2551,2274000000,Germany,Europe,50.72154882,10.71024387
+973,Financial Services,Mid-Market,1225,468200000,France,Europe,45.83766636,2.330471181
+974,Healthcare,Mid-Market,369,85700000,United Kingdom,Europe,54.97111428,-2.995616765
+975,Manufacturing,Mid-Market,650,133800000,Brazil,Latin America,-14.67522693,-51.6869335
+976,Retail & E-commerce,Mid-Market,898,172000000,Italy,Europe,41.84037457,12.73829434
+977,Healthcare,Mid-Market,675,86600000,Brazil,Latin America,-14.5397306,-52.07499288
+978,Manufacturing,SMB,129,12100000,Brazil,Latin America,-14.49576161,-52.27354877
+979,Manufacturing,Mid-Market,917,99000000,Italy,Europe,42.28293856,12.74596766
+980,Financial Services,Mid-Market,1234,534700000,Netherlands,Europe,52.12253294,5.392279504
+981,Manufacturing,Mid-Market,729,151100000,Singapore,Asia-Pacific,1.125916903,103.6727004
+982,Healthcare,Mid-Market,1031,322200000,Italy,Europe,42.19706263,12.5628374
+983,Retail & E-commerce,Mid-Market,560,113400000,United States,North America,37.23014664,-95.36292741
+984,Technology,Enterprise,3799,1454500000,Brazil,Latin America,-14.50925047,-51.58672974
+985,Logistics,Mid-Market,1500,275000000,Japan,Asia-Pacific,35.98345012,138.7302934
+986,Logistics,Mid-Market,467,29900000,Netherlands,Europe,52.24487583,5.490650726
+987,Financial Services,Enterprise,4931,950700000,Brazil,Latin America,-14.3008798,-51.86467875
+988,Education,Mid-Market,1201,239300000,United Kingdom,Europe,55.42413515,-3.332389987
+989,Logistics,SMB,126,10600000,Singapore,Asia-Pacific,1.219166753,103.8994498
+990,Healthcare,Mid-Market,294,68400000,Japan,Asia-Pacific,36.42614451,137.9220021
+991,Education,Mid-Market,675,118300000,France,Europe,46.35608941,1.90774236
+992,Retail & E-commerce,Mid-Market,588,55500000,France,Europe,45.82552683,2.693466138
+993,Retail & E-commerce,Mid-Market,466,52900000,Japan,Asia-Pacific,36.67579113,138.4433188
+994,Manufacturing,Mid-Market,247,43900000,United Kingdom,Europe,55.30638438,-3.424531355
+995,Logistics,Mid-Market,1331,269200000,Netherlands,Europe,52.40548787,5.587240587
+996,Retail & E-commerce,Mid-Market,985,176600000,Canada,North America,56.38473553,-106.2219383
+997,Financial Services,Enterprise,4398,2336900000,France,Europe,46.07472512,2.601167284
+998,Education,Mid-Market,1110,77100000,France,Europe,46.66958519,2.498131387
+999,Manufacturing,Mid-Market,1414,219600000,United Kingdom,Europe,55.2292786,-3.887923374
+1000,Financial Services,Enterprise,4600,2314300000,Italy,Europe,41.56961244,12.81410239
